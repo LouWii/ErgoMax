@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/libs/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/libs/promicro.lib)(options "")(descr ""))
+)
