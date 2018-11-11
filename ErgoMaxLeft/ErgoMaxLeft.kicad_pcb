@@ -234,7 +234,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183F72)
-    (at 136.525 37.465 90)
+    (at 136.67232 39.18712 90)
     (path /5BEB2BD0)
     (fp_text reference D1 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -258,7 +258,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183F81)
-    (at 155.575 37.465 90)
+    (at 155.575 36.04006 90)
     (path /5BEB3B74)
     (fp_text reference D2 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -282,7 +282,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183F90)
-    (at 174.625 37.465 90)
+    (at 174.59198 34.4678 90)
     (path /5BEB3FD7)
     (fp_text reference D3 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -306,7 +306,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183F9F)
-    (at 193.675 37.465 90)
+    (at 193.62928 36.02482 90)
     (path /5BEB53AD)
     (fp_text reference D4 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -330,7 +330,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183FAE)
-    (at 212.73262 38.60038 90)
+    (at 212.7123 37.32276 90)
     (path /5BEB55C4)
     (fp_text reference D5 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -354,7 +354,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183FBD)
-    (at 231.9147 38.6334 90)
+    (at 231.8766 37.27196 90)
     (path /5BEB664E)
     (fp_text reference D6 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -378,12 +378,12 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183FCC)
-    (at 110.1725 78.05166)
+    (at 117.475 58.21172 90)
     (path /5BEF3349)
-    (fp_text reference D7 (at 0 0) (layer F.SilkS)
+    (fp_text reference D7 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -395,14 +395,14 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 14 "Net-(D7-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 13 /Col0))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183FDB)
-    (at 135.2931 57.023 90)
+    (at 136.70788 58.25744 90)
     (path /5BECFB47)
     (fp_text reference D8 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -426,7 +426,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183FEA)
-    (at 155.6131 56.515 90)
+    (at 155.5369 56.5023 90)
     (path /5BED0228)
     (fp_text reference D9 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -450,12 +450,12 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183FF9)
-    (at 245.38874 108.125901)
+    (at 174.59198 53.6575 90)
     (path /5BED2599)
-    (fp_text reference D10 (at 0 0) (layer F.SilkS)
+    (fp_text reference D10 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -467,19 +467,19 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 17 "Net-(D10-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 5 /Col3))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184008)
-    (at 245.38874 105.645901)
+    (at 193.62928 55.11292 90)
     (path /5BED2D1A)
-    (fp_text reference D11 (at 0 0) (layer F.SilkS)
+    (fp_text reference D11 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -491,19 +491,19 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 18 "Net-(D11-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 8 /Col4))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184017)
-    (at 198.64324 149.3393)
+    (at 212.71484 56.35498 90)
     (path /5BED34FA)
-    (fp_text reference D12 (at 0 0) (layer F.SilkS)
+    (fp_text reference D12 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -515,19 +515,19 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 19 "Net-(D12-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 10 /Col5))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184026)
-    (at 226.84874 118.785901)
+    (at 231.85628 56.32704 90)
     (path /5BED6DC4)
-    (fp_text reference D13 (at 0 0) (layer F.SilkS)
+    (fp_text reference D13 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -539,43 +539,43 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 20 "Net-(D13-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 11 /Col6))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184035)
-    (at 210.40874 140.105901)
+    (at 117.50294 77.343 90)
     (path /5BEFD611)
-    (fp_text reference D14 (at 0 0) (layer F.SilkS)
+    (fp_text reference D14 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
-    (fp_line (start 1.524 1.143) (end -1.524 1.143) (layer F.SilkS) (width 0.2032))
-    (fp_line (start 1.524 -1.143) (end 1.524 1.143) (layer F.SilkS) (width 0.2032))
-    (fp_line (start -1.524 -1.143) (end 1.524 -1.143) (layer F.SilkS) (width 0.2032))
-    (fp_line (start 1.3 1.1) (end 1.3 -1) (layer F.SilkS) (width 0.15))
-    (fp_line (start 1.3 -1.1) (end 1.3 -1) (layer F.SilkS) (width 0.15))
-    (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
-    (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
-      (net 21 "Net-(D14-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
+    (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
+    (fp_line (start 1.3 -1.1) (end 1.3 -1) (layer F.SilkS) (width 0.15))
+    (fp_line (start 1.3 1.1) (end 1.3 -1) (layer F.SilkS) (width 0.15))
+    (fp_line (start -1.524 -1.143) (end 1.524 -1.143) (layer F.SilkS) (width 0.2032))
+    (fp_line (start 1.524 -1.143) (end 1.524 1.143) (layer F.SilkS) (width 0.2032))
+    (fp_line (start 1.524 1.143) (end -1.524 1.143) (layer F.SilkS) (width 0.2032))
+    (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 13 /Col0))
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+      (net 21 "Net-(D14-Pad2)"))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184044)
-    (at 236.11874 116.305901)
+    (at 136.6901 77.42682 90)
     (path /5BEFD5D9)
-    (fp_text reference D15 (at 0 0) (layer F.SilkS)
+    (fp_text reference D15 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -587,19 +587,19 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 22 "Net-(D15-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 2 /Col1))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184053)
-    (at 236.11874 113.825901)
+    (at 155.58262 74.13498 90)
     (path /5BEFD5E0)
-    (fp_text reference D16 (at 0 0) (layer F.SilkS)
+    (fp_text reference D16 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -611,19 +611,19 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 23 "Net-(D16-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 4 /Col2))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184062)
-    (at 226.84874 123.745901)
+    (at 174.64024 72.59066 90)
     (path /5BEFD5E8)
-    (fp_text reference D17 (at 0 0) (layer F.SilkS)
+    (fp_text reference D17 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -635,19 +635,19 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 24 "Net-(D17-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 5 /Col3))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184071)
-    (at 252.84874 98.205901)
+    (at 193.60896 74.1934 90)
     (path /5BEFD5F0)
-    (fp_text reference D18 (at 0 0) (layer F.SilkS)
+    (fp_text reference D18 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -659,19 +659,19 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 25 "Net-(D18-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 8 /Col4))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184080)
-    (at 252.84874 95.725901)
+    (at 225.09734 86.29396 90)
     (path /5BEFD5F8)
-    (fp_text reference D19 (at 0 0) (layer F.SilkS)
+    (fp_text reference D19 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
-    (fp_text value D (at 0 0) (layer F.SilkS) hide
+    (fp_text value D (at 0 0 90) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_line (start -1.524 1.143) (end -1.524 -1.143) (layer F.SilkS) (width 0.2032))
@@ -683,14 +683,14 @@
     (fp_line (start 1.3 -1) (end 1.3 -1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 1.1 -1.1) (end 1.1 1.1) (layer F.SilkS) (width 0.15))
     (fp_line (start 0.9 1.1) (end 0.9 -1.1) (layer F.SilkS) (width 0.15))
-    (pad 2 thru_hole rect (at 3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 2 thru_hole rect (at 3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 26 "Net-(D19-Pad2)"))
-    (pad 1 thru_hole circle (at -3.81 0) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
+    (pad 1 thru_hole circle (at -3.81 0 90) (size 1.651 1.651) (drill 0.9906) (layers *.Cu *.SilkS *.Mask)
       (net 10 /Col5))
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18408F)
-    (at 226.84874 121.265901)
+    (at 197.79876 148.535341)
     (path /5BEFD600)
     (fp_text reference D20 (at 0 0.133399) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -714,7 +714,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18409E)
-    (at 236.11874 111.345901)
+    (at 207.06876 138.615341)
     (path /5BF01172)
     (fp_text reference D21 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -738,7 +738,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1840AD)
-    (at 210.40874 137.625901)
+    (at 181.35876 164.895341)
     (path /5BF0113A)
     (fp_text reference D22 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -762,7 +762,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1840BC)
-    (at 243.57874 103.165901)
+    (at 214.52876 130.435341)
     (path /5BF01141)
     (fp_text reference D23 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -786,7 +786,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1840CB)
-    (at 193.96874 158.205901)
+    (at 164.91876 185.475341)
     (path /5BF01149)
     (fp_text reference D24 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -810,7 +810,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1840DA)
-    (at 84.4455 156.566601)
+    (at 70.18848 166.012861)
     (path /5BF01151)
     (fp_text reference D25 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -834,7 +834,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1840E9)
-    (at 226.84874 116.305901)
+    (at 197.79876 143.575341)
     (path /5BF01159)
     (fp_text reference D26 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -858,7 +858,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1840F8)
-    (at 226.84874 113.825901)
+    (at 197.79876 141.095341)
     (path /5BF01161)
     (fp_text reference D27 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -882,7 +882,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184107)
-    (at 226.84874 111.345901)
+    (at 197.79876 138.615341)
     (path /5C141B72)
     (fp_text reference D28 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -906,7 +906,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184116)
-    (at 236.11874 108.865901)
+    (at 207.06876 136.135341)
     (path /5BF079EE)
     (fp_text reference D29 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -930,7 +930,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184125)
-    (at 226.84874 108.865901)
+    (at 197.79876 136.135341)
     (path /5BF079B6)
     (fp_text reference D30 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -954,7 +954,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184134)
-    (at 236.11874 106.385901)
+    (at 207.06876 133.655341)
     (path /5BF079BD)
     (fp_text reference D31 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -978,7 +978,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184143)
-    (at 243.57874 100.685901)
+    (at 214.52876 127.955341)
     (path /5BF079C5)
     (fp_text reference D32 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1002,7 +1002,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184152)
-    (at 243.57874 98.205901)
+    (at 214.52876 125.475341)
     (path /5BF079CD)
     (fp_text reference D33 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1026,7 +1026,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184161)
-    (at 243.57874 95.725901)
+    (at 214.52876 122.995341)
     (path /5BF079D5)
     (fp_text reference D34 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1050,7 +1050,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184170)
-    (at 71.9455 163.616601)
+    (at 57.68848 173.062861)
     (path /5BF079DD)
     (fp_text reference D35 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1074,7 +1074,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18417F)
-    (at 243.57874 93.245901)
+    (at 214.52876 120.515341)
     (path /5C1521C9)
     (fp_text reference D36 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1098,7 +1098,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18418E)
-    (at 252.84874 90.765901)
+    (at 223.79876 118.035341)
     (path /5BF13B85)
     (fp_text reference D37 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1122,7 +1122,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18419D)
-    (at 243.57874 90.765901)
+    (at 214.52876 118.035341)
     (path /5BF13B4D)
     (fp_text reference D38 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1146,7 +1146,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1841AC)
-    (at 226.84874 106.385901)
+    (at 197.79876 133.655341)
     (path /5BF13B54)
     (fp_text reference D39 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1170,7 +1170,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1841BB)
-    (at 93.7155 161.526601)
+    (at 79.45848 170.972861)
     (path /5BF13B5C)
     (fp_text reference D40 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1194,7 +1194,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1841CA)
-    (at 84.4455 161.526601)
+    (at 70.18848 170.972861)
     (path /5BF13B64)
     (fp_text reference D41 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1218,7 +1218,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1841D9)
-    (at 93.7155 159.046601)
+    (at 79.45848 168.492861)
     (path /5BF13B6C)
     (fp_text reference D42 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1242,7 +1242,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1841E8)
-    (at 84.4455 159.046601)
+    (at 70.18848 168.492861)
     (path /5BF13B74)
     (fp_text reference D43 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1266,7 +1266,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1841F7)
-    (at 93.7155 156.566601)
+    (at 79.45848 166.012861)
     (path /5C162AD4)
     (fp_text reference D44 (at 0 0) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1290,7 +1290,7 @@
   )
 
   (module Keebio-Parts:4pin35mmAudio (layer F.Cu) (tedit 5923179B) (tstamp 5C184219)
-    (at 67.56 156.6989)
+    (at 53.30298 166.14516)
     (path /5BE696F3)
     (fp_text reference J1 (at 1.27 0 90) (layer F.SilkS) hide
       (effects (font (size 1.524 1.778) (thickness 0.3048)))
@@ -1540,7 +1540,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1842B5)
-    (at 222.20842 31.082)
+    (at 222.20842 31.102)
     (path /5BE6A8C0)
     (fp_text reference K6 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1579,8 +1579,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1842CF)
-    (at 108.69168 52.197)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C189BC1)
+    (at 107.95168 52.057)
     (path /5BEB3ED6)
     (fp_text reference K7 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1619,8 +1619,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1842E9)
-    (at 126.9971 52.077)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1842E9)
+    (at 126.9971 52.057)
     (path /5BEB2CE6)
     (fp_text reference K8 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1659,8 +1659,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184303)
-    (at 145.7071 52.197)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184303)
+    (at 146.0471 48.867)
     (path /5BEBC92E)
     (fp_text reference K9 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1699,8 +1699,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18431D)
-    (at 40.64 75.438)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18431D)
+    (at 165.0927 47.26144)
     (path /5BEBC935)
     (fp_text reference K10 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1739,8 +1739,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184337)
-    (at 230.313741 81.711801)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184337)
+    (at 184.1346 48.85378)
     (path /5BEBC93C)
     (fp_text reference K11 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1780,7 +1780,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184351)
-    (at 164.263741 159.811801)
+    (at 203.17126 50.14988)
     (path /5BEBC943)
     (fp_text reference K12 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1820,7 +1820,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18436B)
-    (at 164.263741 112.951801)
+    (at 222.20412 50.1523)
     (path /5BEBC94A)
     (fp_text reference K13 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1859,8 +1859,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184385)
-    (at 197.143741 112.951801)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184385)
+    (at 107.95508 71.1001)
     (path /5BEFD5AA)
     (fp_text reference K14 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1899,8 +1899,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18439F)
-    (at 180.703741 128.571801)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18439F)
+    (at 126.99586 71.1097)
     (path /5BEFD5A3)
     (fp_text reference K15 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1939,8 +1939,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1843B9)
-    (at 164.263741 144.191801)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1843B9)
+    (at 146.0446 67.90898)
     (path /5BEFD5B1)
     (fp_text reference K16 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -1980,7 +1980,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1843D3)
-    (at 147.823741 159.811801)
+    (at 165.08904 66.3059)
     (path /5BEFD5B8)
     (fp_text reference K17 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2019,8 +2019,8 @@
     )
   )
 
-  (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1843ED)
-    (at 213.873741 81.711801)
+  (module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1843ED)
+    (at 184.13444 67.90162)
     (path /5BEFD5BF)
     (fp_text reference K18 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2060,7 +2060,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184407)
-    (at 197.433741 97.331801)
+    (at 206.30388 75.64374)
     (path /5BEFD5C6)
     (fp_text reference K19 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2100,7 +2100,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184421)
-    (at 48.768 98.044)
+    (at 34.51098 107.49026)
     (path /5BEFD5CD)
     (fp_text reference K20 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2140,7 +2140,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18443B)
-    (at 164.263741 128.571801)
+    (at 135.213761 155.841241)
     (path /5BF0110B)
     (fp_text reference K21 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2180,7 +2180,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184455)
-    (at 147.823741 144.191801)
+    (at 118.773761 171.461241)
     (path /5BF01104)
     (fp_text reference K22 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2220,7 +2220,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18446F)
-    (at 131.383741 159.811801)
+    (at 102.333761 187.081241)
     (path /5BF01112)
     (fp_text reference K23 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2260,7 +2260,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184489)
-    (at 164.553741 81.711801)
+    (at 135.503761 108.981241)
     (path /5BF01119)
     (fp_text reference K24 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2300,7 +2300,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1844A3)
-    (at 213.873741 97.331801)
+    (at 184.823761 124.601241)
     (path /5BF01120)
     (fp_text reference K25 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2340,7 +2340,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1844BD)
-    (at 147.823741 128.571801)
+    (at 118.773761 155.841241)
     (path /5BF01127)
     (fp_text reference K26 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2380,7 +2380,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1844D7)
-    (at 131.383741 144.191801)
+    (at 102.333761 171.461241)
     (path /5BF0112E)
     (fp_text reference K27 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2420,7 +2420,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1844F1)
-    (at 180.993741 81.711801)
+    (at 151.943761 108.981241)
     (path /5C111CFC)
     (fp_text reference K28 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2460,7 +2460,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18450B)
-    (at 91.560501 143.212501)
+    (at 77.303481 152.658761)
     (path /5BF07987)
     (fp_text reference K29 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2500,7 +2500,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184525)
-    (at 164.553741 97.331801)
+    (at 135.503761 124.601241)
     (path /5BF07980)
     (fp_text reference K30 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2540,7 +2540,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18453F)
-    (at 147.823741 112.951801)
+    (at 118.773761 140.221241)
     (path /5BF0798E)
     (fp_text reference K31 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2580,7 +2580,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184559)
-    (at 131.383741 128.571801)
+    (at 102.333761 155.841241)
     (path /5BF07995)
     (fp_text reference K32 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2620,7 +2620,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184573)
-    (at 91.560501 127.592501)
+    (at 77.303481 137.038761)
     (path /5BF0799C)
     (fp_text reference K33 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2660,7 +2660,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18458D)
-    (at 75.120501 96.352501)
+    (at 60.863481 105.798761)
     (path /5BF079A3)
     (fp_text reference K34 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2700,7 +2700,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1845A7)
-    (at 52.07 141.478)
+    (at 37.81298 150.92426)
     (path /5BF079AA)
     (fp_text reference K35 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2740,7 +2740,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1845C1)
-    (at 180.703741 144.191801)
+    (at 151.653761 171.461241)
     (path /5C111BB8)
     (fp_text reference K36 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2780,7 +2780,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1845DB)
-    (at 131.383741 112.951801)
+    (at 102.333761 140.221241)
     (path /5BF13B1E)
     (fp_text reference K37 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2820,7 +2820,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C1845F5)
-    (at 91.560501 111.972501)
+    (at 77.303481 121.418761)
     (path /5BF13B17)
     (fp_text reference K38 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2860,7 +2860,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18460F)
-    (at 75.120501 127.592501)
+    (at 60.863481 137.038761)
     (path /5BF13B25)
     (fp_text reference K39 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2900,7 +2900,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184629)
-    (at 148.113741 81.711801)
+    (at 119.063761 108.981241)
     (path /5BF13B2C)
     (fp_text reference K40 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2940,7 +2940,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184643)
-    (at 131.673741 97.331801)
+    (at 102.623761 124.601241)
     (path /5BF13B33)
     (fp_text reference K41 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2980,7 +2980,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C18465D)
-    (at 91.560501 96.352501)
+    (at 77.303481 105.798761)
     (path /5BF13B3A)
     (fp_text reference K42 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -3020,7 +3020,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184677)
-    (at 75.120501 111.972501)
+    (at 60.863481 121.418761)
     (path /5BF13B41)
     (fp_text reference K43 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -3060,7 +3060,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184691)
-    (at 131.673741 81.5213)
+    (at 102.623761 108.79074)
     (path /5C111A51)
     (fp_text reference K44 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -3100,7 +3100,7 @@
   )
 
   (module Keebio-Parts:Resistor (layer F.Cu) (tedit 5957E680) (tstamp 5C1846BF)
-    (at 85.7155 154.247001)
+    (at 71.45848 163.693261)
     (path /5C270960)
     (fp_text reference R1 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3160,7 +3160,7 @@
   )
 
   (module Keebio-Parts:Resistor (layer F.Cu) (tedit 5957E680) (tstamp 5C1846ED)
-    (at 85.7155 152.097001)
+    (at 71.45848 161.543261)
     (path /5C270B6B)
     (fp_text reference R2 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
