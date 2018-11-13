@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 1)
+    (drawings 0)
     (tracks 0)
     (zones 0)
     (modules 92)
@@ -3294,19 +3294,6 @@
       (net 63 "Net-(U1-Pad2)"))
     (pad 1 thru_hole rect (at -13.97 7.62) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask F.SilkS)
       (net 62 "Net-(U1-Pad1)"))
-  )
-
-  (dimension 17.907005 (width 0.3) (layer F.SilkS)
-    (gr_text "17.907 mm" (at 240.904868 64.421064 -89.9593647) (layer F.SilkS)
-      (effects (font (size 1.5 1.5) (thickness 0.3)))
-    )
-    (feature1 (pts (xy 216.95453 55.484545) (xy 239.384939 55.468637)))
-    (feature2 (pts (xy 216.96723 73.391545) (xy 239.397639 73.375637)))
-    (crossbar (pts (xy 238.811219 73.376053) (xy 238.798519 55.469053)))
-    (arrow1a (pts (xy 238.798519 55.469053) (xy 239.385739 56.595141)))
-    (arrow1b (pts (xy 238.798519 55.469053) (xy 238.212897 56.595972)))
-    (arrow2a (pts (xy 238.811219 73.376053) (xy 239.396841 72.249134)))
-    (arrow2b (pts (xy 238.811219 73.376053) (xy 238.223999 72.249965)))
   )
 
 )
