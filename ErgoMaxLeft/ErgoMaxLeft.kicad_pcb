@@ -1050,7 +1050,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184170)
-    (at 239.141 111.4298 90)
+    (at 238.2266 102.84206 90)
     (path /5BF079DD)
     (fp_text reference D35 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -2100,7 +2100,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5C184421)
-    (at 228.6 73.31564)
+    (at 228.6 68.04564)
     (path /5BEFD5CD)
     (fp_text reference K20 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -2700,7 +2700,7 @@
   )
 
   (module keyboard_parts:Kailh_MX_Socket (layer F.Cu) (tedit 5AA94F75) (tstamp 5BEA4825)
-    (at 228.6 91.24)
+    (at 228.6 96.6)
     (path /5BF079AA)
     (fp_text reference K35 (at 0 9) (layer F.SilkS)
       (effects (font (size 1.524 1.524) (thickness 0.3048)))
