@@ -2,10 +2,10 @@
 
   (general
     (thickness 1.6)
-    (drawings 1)
+    (drawings 13)
     (tracks 0)
     (zones 0)
-    (modules 92)
+    (modules 94)
     (nets 67)
   )
 
@@ -39,7 +39,7 @@
     (zone_clearance 0.508)
     (zone_45_only no)
     (trace_min 0.2)
-    (segment_width 0.2)
+    (segment_width 0.381)
     (edge_width 0.381)
     (via_size 0.8)
     (via_drill 0.4)
@@ -55,8 +55,8 @@
     (mod_edge_width 0.15)
     (mod_text_size 1 1)
     (mod_text_width 0.15)
-    (pad_size 1.524 1.524)
-    (pad_drill 0.762)
+    (pad_size 6.3754 6.3754)
+    (pad_drill 6.3754)
     (pad_to_mask_clearance 0.051)
     (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
@@ -233,6 +233,26 @@
     (add_net VCC)
   )
 
+  (module MountingHole:MountingHole_6.4mm_M6 (layer F.Cu) (tedit 5BEB8FDB) (tstamp 5BF8FB0D)
+    (at 115.06 156.62)
+    (descr "Mounting Hole 6.4mm, no annular, M6")
+    (tags "mounting hole 6.4mm no annular m6")
+    (attr virtual)
+    (fp_text reference "" (at 0 -7.4) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 7.4) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 6.65 0) (layer F.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 6.4 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0 0) (size 6.3754 6.3754) (drill 6.3754) (layers *.Cu *.Mask)
+      (solder_mask_margin -0.254) (zone_connect 2))
+  )
+
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183F72)
     (at 158.27232 69.82076 90)
     (path /5BEB2BD0)
@@ -354,7 +374,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C183FBD)
-    (at 253.4766 67.9056 90)
+    (at 250.09 67.99 90)
     (path /5BEB664E)
     (fp_text reference D6 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -522,7 +542,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184026)
-    (at 253.45628 86.96068 90)
+    (at 249.83 87.71 90)
     (path /5BED6DC4)
     (fp_text reference D13 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -690,7 +710,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18408F)
-    (at 253.4512 106.04624 90)
+    (at 249.75 112.23 90)
     (path /5BEFD600)
     (fp_text reference D20 (at 0 0.133399 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1050,7 +1070,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C184170)
-    (at 253.4866 139.39206 90)
+    (at 251.18 138.99 90)
     (path /5BF079DD)
     (fp_text reference D35 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1074,7 +1094,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18417F)
-    (at 277.00954 188.8992 65)
+    (at 276.42 186.83 65)
     (path /5C1521C9)
     (fp_text reference D36 (at 0 0 65) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1098,7 +1118,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18418E)
-    (at 139.0469 165.0232 90)
+    (at 139.06 162.95 90)
     (path /5BF13B85)
     (fp_text reference D37 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1122,7 +1142,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C18419D)
-    (at 158.1858 165.074 90)
+    (at 158.18 163.03 90)
     (path /5BF13B4D)
     (fp_text reference D38 (at 0 0 90) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1266,7 +1286,7 @@
   )
 
   (module Keebio-Parts:Diode (layer F.Cu) (tedit 549B02AC) (tstamp 5C1841F7)
-    (at 269.02124 206.00356 65)
+    (at 270.349824 198.313033 65)
     (path /5C162AD4)
     (fp_text reference D44 (at 0 0 65) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
@@ -1290,7 +1310,7 @@
   )
 
   (module Keebio-Parts:4pin35mmAudio (layer F.Cu) (tedit 5923179B) (tstamp 5C184219)
-    (at 53.30298 166.14516)
+    (at 138.30298 45.84516)
     (path /5BE696F3)
     (fp_text reference J1 (at 1.27 0 90) (layer F.SilkS) hide
       (effects (font (size 1.524 1.778) (thickness 0.3048)))
@@ -3100,7 +3120,7 @@
   )
 
   (module Keebio-Parts:Resistor (layer F.Cu) (tedit 5957E680) (tstamp 5C1846BF)
-    (at 71.45848 163.693261)
+    (at 156.45848 43.393261)
     (path /5C270960)
     (fp_text reference R1 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3160,7 +3180,7 @@
   )
 
   (module Keebio-Parts:Resistor (layer F.Cu) (tedit 5957E680) (tstamp 5C1846ED)
-    (at 71.45848 161.543261)
+    (at 156.45848 41.243261)
     (path /5C270B6B)
     (fp_text reference R2 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.2)))
@@ -3296,6 +3316,38 @@
       (net 62 "Net-(U1-Pad1)"))
   )
 
-  (gr_line (start 111.86 60.62) (end 111.86 168.57) (layer Edge.Cuts) (width 0.381))
+  (module MountingHole:MountingHole_6.5mm_Pad (layer F.Cu) (tedit 5BEB90F9) (tstamp 5BF91A5F)
+    (at 256.589625 137.335287)
+    (descr "Mounting Hole 6.5mm")
+    (tags "mounting hole 6.5mm")
+    (attr virtual)
+    (fp_text reference "" (at 0 -7.5) (layer F.SilkS) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_text value "" (at 0 7.5) (layer F.Fab) hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (fp_circle (center 0 0) (end 6.75 0) (layer F.CrtYd) (width 0.05))
+    (fp_circle (center 0 0) (end 6.5 0) (layer Cmts.User) (width 0.15))
+    (fp_text user %R (at 0.3 0) (layer F.Fab)
+      (effects (font (size 1 1) (thickness 0.15)))
+    )
+    (pad "" np_thru_hole circle (at 0 0) (size 6.3754 6.3754) (drill 6.3754) (layers *.Cu *.Mask)
+      (solder_mask_margin -0.254))
+  )
+
+  (gr_line (start 253.65 137.29) (end 258.55 137.33) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 116.72 27.25) (end 110.34 51.1) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 250.48 26.14) (end 116.72 27.26) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 253.65 29.33) (end 250.475 26.155) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 253.65 29.34) (end 253.65 137.29) (layer Edge.Cuts) (width 0.381) (tstamp 5BF8F192))
+  (gr_line (start 110.34 159.05) (end 119.865 168.575) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 291.63972 152.7635) (end 258.5486 137.333) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 293.17642 156.98244) (end 291.63972 152.7635) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 271.49244 203.48476) (end 293.17642 156.98244) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 267.2735 205.01892) (end 271.49244 203.48476) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 189.105 168.575) (end 267.2735 205.01892) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 119.865 168.575) (end 189.105 168.575) (layer Edge.Cuts) (width 0.381))
+  (gr_line (start 110.34 51.1) (end 110.34 159.05) (layer Edge.Cuts) (width 0.381) (tstamp 5BF8EEAC))
 
 )
