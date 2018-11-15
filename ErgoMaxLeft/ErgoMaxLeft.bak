@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ErgoMaxLeft-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -30,7 +31,7 @@ U 1 1 5BE696F3
 P 1750 1250
 F 0 "J1" H 1716 1592 50  0000 C CNN
 F 1 "AudioJack4_Ground" H 1716 1501 50  0000 C CNN
-F 2 "keyboard_parts:4pin35mmAudio" H 1750 1250 50  0001 C CNN
+F 2 "Keebio-Parts:4pin35mmAudio" H 1750 1250 50  0001 C CNN
 F 3 "~" H 1750 1250 50  0001 C CNN
 	1    1750 1250
 	1    0    0    -1  
@@ -123,17 +124,6 @@ Wire Wire Line
 Wire Wire Line
 	8950 1750 8100 1750
 Connection ~ 8100 1750
-$Comp
-L Device:D D1
-U 1 1 5BEB2BD0
-P 5450 2250
-F 0 "D1" V 5496 2171 50  0000 R CNN
-F 1 "D" V 5405 2171 50  0000 R CNN
-F 2 "Keebio-Parts:Diode" H 5450 2250 50  0001 C CNN
-F 3 "~" H 5450 2250 50  0001 C CNN
-	1    5450 2250
-	0    -1   -1   0   
-$EndComp
 $Comp
 L keyboard_parts:KEYSW K8
 U 1 1 5BEB2CE6
@@ -1216,8 +1206,6 @@ Wire Wire Line
 Wire Wire Line
 	4500 5050 4500 5100
 Wire Wire Line
-	5450 2400 5450 3000
-Wire Wire Line
 	5350 3000 5450 3000
 Connection ~ 5450 3000
 Wire Wire Line
@@ -1726,4 +1714,17 @@ NoConn ~ 1250 2650
 NoConn ~ 1250 2750
 NoConn ~ 2650 2650
 NoConn ~ 2650 2850
+$Comp
+L Device:D D1
+U 1 1 5BEB2BD0
+P 5450 2250
+F 0 "D1" V 5496 2171 50  0000 R CNN
+F 1 "D" V 5405 2171 50  0000 R CNN
+F 2 "Keebio-Parts:Diode" H 5450 2250 50  0001 C CNN
+F 3 "~" H 5450 2250 50  0001 C CNN
+	1    5450 2250
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5450 2400 5450 3000
 $EndSCHEMATC
