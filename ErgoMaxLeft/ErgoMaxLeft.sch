@@ -26,17 +26,6 @@ F 3 "" H 2050 2350 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:AudioJack4_Ground J1
-U 1 1 5BE696F3
-P 1750 1250
-F 0 "J1" H 1716 1592 50  0000 C CNN
-F 1 "AudioJack4_Ground" H 1716 1501 50  0000 C CNN
-F 2 "keyboard_parts:4pin35mmAudio" H 1750 1250 50  0001 C CNN
-F 3 "~" H 1750 1250 50  0001 C CNN
-	1    1750 1250
-	1    0    0    -1  
-$EndComp
-$Comp
 L keyboard_parts:KEYSW K1
 U 1 1 5BE69E3A
 P 5000 2050
@@ -1587,73 +1576,34 @@ Text GLabel 1250 2950 0    50   Input ~ 0
 GND
 Text GLabel 2650 2750 2    50   Input ~ 0
 GND
-Text GLabel 1950 1150 2    50   Input ~ 0
-GND
 Text GLabel 2650 2950 2    50   Input ~ 0
-VCC
-Text GLabel 2950 1350 2    50   Input ~ 0
 VCC
 Text GLabel 1250 3050 0    50   Input ~ 0
 SDA
-Text GLabel 2550 1250 2    50   Input ~ 0
-SDA
 Text GLabel 1250 3150 0    50   Input ~ 0
-SCL
-Text GLabel 2550 1450 2    50   Input ~ 0
 SCL
 $Comp
 L Device:R R1
 U 1 1 5C270960
-P 2250 1300
-F 0 "R1" V 2250 1300 50  0000 C CNN
-F 1 "2.2K" V 2134 1300 50  0000 C CNN
-F 2 "Keebio-Parts:Resistor" V 2180 1300 50  0001 C CNN
-F 3 "~" H 2250 1300 50  0001 C CNN
-	1    2250 1300
+P 3550 700
+F 0 "R1" V 3550 700 50  0000 C CNN
+F 1 "2.2K" V 3434 700 50  0000 C CNN
+F 2 "Keebio-Parts:Resistor" V 3480 700 50  0001 C CNN
+F 3 "~" H 3550 700 50  0001 C CNN
+	1    3550 700 
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R R2
 U 1 1 5C270B6B
-P 2250 1400
-F 0 "R2" V 2250 1400 50  0000 C CNN
-F 1 "2.2K" V 2350 1400 50  0000 C CNN
-F 2 "Keebio-Parts:Resistor" V 2180 1400 50  0001 C CNN
-F 3 "~" H 2250 1400 50  0001 C CNN
-	1    2250 1400
+P 3550 1350
+F 0 "R2" V 3550 1350 50  0000 C CNN
+F 1 "2.2K" V 3650 1350 50  0000 C CNN
+F 2 "Keebio-Parts:Resistor" V 3480 1350 50  0001 C CNN
+F 3 "~" H 3550 1350 50  0001 C CNN
+	1    3550 1350
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	2550 1250 2050 1250
-Wire Wire Line
-	2550 1450 2050 1450
-Wire Wire Line
-	2950 1350 2500 1350
-Wire Wire Line
-	2500 1350 2500 1300
-Wire Wire Line
-	2500 1300 2400 1300
-Connection ~ 2500 1350
-Wire Wire Line
-	2500 1350 1950 1350
-Wire Wire Line
-	2100 1300 2050 1300
-Wire Wire Line
-	2050 1300 2050 1250
-Connection ~ 2050 1250
-Wire Wire Line
-	2050 1250 1950 1250
-Wire Wire Line
-	2400 1400 2500 1400
-Wire Wire Line
-	2500 1400 2500 1350
-Wire Wire Line
-	2100 1400 2050 1400
-Wire Wire Line
-	2050 1400 2050 1450
-Connection ~ 2050 1450
-Wire Wire Line
-	2050 1450 1950 1450
 Text Label 4600 5800 0    50   ~ 0
 Col0
 Text Label 5450 5800 0    50   ~ 0
@@ -1727,4 +1677,63 @@ F 3 "~" H 5450 2250 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5450 2400 5450 3000
+$Comp
+L Connector_Generic:Conn_01x06 J1
+U 1 1 5BFE26B0
+P 4450 900
+F 0 "J1" H 4530 892 50  0000 L CNN
+F 1 "Conn_01x06" H 4530 801 50  0000 L CNN
+F 2 "Keebio-Parts:4pin35mmAudio" H 4450 900 50  0001 C CNN
+F 3 "~" H 4450 900 50  0001 C CNN
+	1    4450 900 
+	1    0    0    -1  
+$EndComp
+Text GLabel 3550 1200 0    50   Input ~ 0
+SDA
+Text GLabel 3550 900  0    50   Input ~ 0
+SCL
+Text GLabel 3350 700  0    50   Input ~ 0
+VCC
+Text GLabel 3350 1350 0    50   Input ~ 0
+VCC
+Wire Wire Line
+	3550 1200 3700 1200
+Wire Wire Line
+	4250 800  3950 800 
+Wire Wire Line
+	3950 800  3950 1200
+Connection ~ 3950 1200
+Wire Wire Line
+	3950 1200 4250 1200
+Wire Wire Line
+	4250 900  4050 900 
+Wire Wire Line
+	4250 1100 4050 1100
+Wire Wire Line
+	4050 1100 4050 900 
+Connection ~ 4050 900 
+Wire Wire Line
+	4050 900  3700 900 
+Wire Wire Line
+	3700 700  3700 900 
+Connection ~ 3700 900 
+Wire Wire Line
+	3700 900  3550 900 
+Wire Wire Line
+	3350 1350 3400 1350
+Wire Wire Line
+	3350 700  3400 700 
+Wire Wire Line
+	3700 1350 3700 1200
+Connection ~ 3700 1200
+Wire Wire Line
+	3700 1200 3950 1200
+Text GLabel 4050 700  0    50   Input ~ 0
+GND
+Text GLabel 3350 1000 0    50   Input ~ 0
+VCC
+Wire Wire Line
+	3350 1000 4250 1000
+Wire Wire Line
+	4050 700  4250 700 
 $EndSCHEMATC
