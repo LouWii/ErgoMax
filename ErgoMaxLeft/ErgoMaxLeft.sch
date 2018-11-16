@@ -1585,23 +1585,23 @@ SCL
 $Comp
 L Device:R R1
 U 1 1 5C270960
-P 3550 700
-F 0 "R1" V 3550 700 50  0000 C CNN
-F 1 "2.2K" V 3434 700 50  0000 C CNN
-F 2 "Keebio-Parts:Resistor" V 3480 700 50  0001 C CNN
-F 3 "~" H 3550 700 50  0001 C CNN
-	1    3550 700 
+P 1700 1550
+F 0 "R1" V 1700 1550 50  0000 C CNN
+F 1 "2.2K" V 1800 1550 50  0000 C CNN
+F 2 "Keebio-Parts:Resistor" V 1630 1550 50  0001 C CNN
+F 3 "~" H 1700 1550 50  0001 C CNN
+	1    1700 1550
 	0    1    1    0   
 $EndComp
 $Comp
 L Device:R R2
 U 1 1 5C270B6B
-P 3550 1350
-F 0 "R2" V 3550 1350 50  0000 C CNN
-F 1 "2.2K" V 3650 1350 50  0000 C CNN
-F 2 "Keebio-Parts:Resistor" V 3480 1350 50  0001 C CNN
-F 3 "~" H 3550 1350 50  0001 C CNN
-	1    3550 1350
+P 1700 1150
+F 0 "R2" V 1700 1150 50  0000 C CNN
+F 1 "2.2K" V 1600 1150 50  0000 C CNN
+F 2 "Keebio-Parts:Resistor" V 1630 1150 50  0001 C CNN
+F 3 "~" H 1700 1150 50  0001 C CNN
+	1    1700 1150
 	0    1    1    0   
 $EndComp
 Text Label 4600 5800 0    50   ~ 0
@@ -1677,63 +1677,54 @@ F 3 "~" H 5450 2250 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	5450 2400 5450 3000
+Text GLabel 2000 1300 0    50   Input ~ 0
+SDA
+Text GLabel 2000 1400 0    50   Input ~ 0
+SCL
+Text GLabel 2350 1500 0    50   Input ~ 0
+VCC
+Text GLabel 1500 1350 0    50   Input ~ 0
+VCC
+Wire Wire Line
+	1500 1350 1550 1350
+Text GLabel 2350 1200 0    50   Input ~ 0
+GND
 $Comp
-L Connector_Generic:Conn_01x06 J1
-U 1 1 5BFE26B0
-P 4450 900
-F 0 "J1" H 4530 892 50  0000 L CNN
-F 1 "Conn_01x06" H 4530 801 50  0000 L CNN
-F 2 "Keebio-Parts:4pin35mmAudio" H 4450 900 50  0001 C CNN
-F 3 "~" H 4450 900 50  0001 C CNN
-	1    4450 900 
+L Connector_Generic:Conn_01x04 J1
+U 1 1 5BEF69BF
+P 2650 1300
+F 0 "J1" H 2600 1500 50  0000 L CNN
+F 1 "PJ-320A" H 2500 1000 50  0000 L CNN
+F 2 "Keebio-Parts:TRRS-PJ-320A-no-Fmask" H 2650 1300 50  0001 C CNN
+F 3 "~" H 2650 1300 50  0001 C CNN
+	1    2650 1300
 	1    0    0    -1  
 $EndComp
-Text GLabel 3550 1200 0    50   Input ~ 0
-SDA
-Text GLabel 3550 900  0    50   Input ~ 0
-SCL
-Text GLabel 3350 700  0    50   Input ~ 0
-VCC
-Text GLabel 3350 1350 0    50   Input ~ 0
-VCC
 Wire Wire Line
-	3550 1200 3700 1200
+	2000 1400 2100 1400
 Wire Wire Line
-	4250 800  3950 800 
+	2000 1300 2100 1300
 Wire Wire Line
-	3950 800  3950 1200
-Connection ~ 3950 1200
+	1850 1150 2100 1150
 Wire Wire Line
-	3950 1200 4250 1200
+	2100 1150 2100 1300
 Wire Wire Line
-	4250 900  4050 900 
+	1850 1550 2100 1550
 Wire Wire Line
-	4250 1100 4050 1100
+	2100 1550 2100 1400
 Wire Wire Line
-	4050 1100 4050 900 
-Connection ~ 4050 900 
+	1550 1350 1550 1150
 Wire Wire Line
-	4050 900  3700 900 
+	1550 1350 1550 1550
+Connection ~ 1550 1350
 Wire Wire Line
-	3700 700  3700 900 
-Connection ~ 3700 900 
+	2350 1200 2450 1200
 Wire Wire Line
-	3700 900  3550 900 
+	2100 1300 2450 1300
+Connection ~ 2100 1300
 Wire Wire Line
-	3350 1350 3400 1350
+	2100 1400 2450 1400
+Connection ~ 2100 1400
 Wire Wire Line
-	3350 700  3400 700 
-Wire Wire Line
-	3700 1350 3700 1200
-Connection ~ 3700 1200
-Wire Wire Line
-	3700 1200 3950 1200
-Text GLabel 4050 700  0    50   Input ~ 0
-GND
-Text GLabel 3350 1000 0    50   Input ~ 0
-VCC
-Wire Wire Line
-	3350 1000 4250 1000
-Wire Wire Line
-	4050 700  4250 700 
+	2350 1500 2450 1500
 $EndSCHEMATC
