@@ -1632,34 +1632,34 @@ Text Label 3650 4150 0    50   ~ 0
 Row4
 Text Label 3650 4750 0    50   ~ 0
 Row5
-Text Label 1250 3250 0    50   ~ 0
-Row0
-Text Label 1250 3350 0    50   ~ 0
-Row1
-Text Label 1250 3450 0    50   ~ 0
-Row2
-Text Label 1250 3550 0    50   ~ 0
-Row3
-Text Label 1250 3650 0    50   ~ 0
-Row4
-Text Label 1250 3750 0    50   ~ 0
+Text Label 1250 3250 2    50   ~ 0
 Row5
+Text Label 1250 3350 2    50   ~ 0
+Row4
+Text Label 1250 3450 2    50   ~ 0
+Row3
+Text Label 1250 3550 2    50   ~ 0
+Row2
+Text Label 1250 3650 2    50   ~ 0
+Row1
+Text Label 1250 3750 2    50   ~ 0
+Row0
 Text Label 2650 3750 0    50   ~ 0
-Col7
-Text Label 2650 3650 0    50   ~ 0
-Col6
-Text Label 2650 3550 0    50   ~ 0
-Col5
-Text Label 2650 3450 0    50   ~ 0
-Col4
-Text Label 2650 3350 0    50   ~ 0
-Col3
-Text Label 2650 3250 0    50   ~ 0
-Col2
-Text Label 2650 3150 0    50   ~ 0
-Col1
-Text Label 2650 3050 0    50   ~ 0
 Col0
+Text Label 2650 3650 0    50   ~ 0
+Col1
+Text Label 2650 3550 0    50   ~ 0
+Col2
+Text Label 2650 3450 0    50   ~ 0
+Col3
+Text Label 2650 3350 0    50   ~ 0
+Col4
+Text Label 2650 3250 0    50   ~ 0
+Col5
+Text Label 2650 3150 0    50   ~ 0
+Col6
+Text Label 2650 3050 0    50   ~ 0
+Col7
 NoConn ~ 1250 2650
 NoConn ~ 1250 2750
 NoConn ~ 2650 2650
