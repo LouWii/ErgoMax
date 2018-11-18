@@ -2,4 +2,5 @@
   (lib (name keyboard_parts)(type KiCad)(uri C:/cygwin64/home/LouWii/Dev/keyboard_parts.pretty)(options "")(descr ""))
   (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/libs/promicro.pretty)(options "")(descr ""))
   (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/libs/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name Kailh_MX_socket)(type KiCad)(uri ${KIPRJMOD}/../libs/Kailh_MX_socket.pretty)(options "")(descr ""))
 )
