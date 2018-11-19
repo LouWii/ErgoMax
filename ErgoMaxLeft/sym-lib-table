@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ErgoMax)(type Legacy)(uri ${KIPRJMOD}/../libs/ErgoMax.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri ${KIPRJMOD}/../libs/keebio.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/../libs/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/../libs/promicro.lib)(options "")(descr ""))
+)

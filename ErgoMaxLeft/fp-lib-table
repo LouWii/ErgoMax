@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ErgoMax)(type KiCad)(uri ${KIPRJMOD}/../libs/ErgoMax.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/../libs/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/../libs/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/../libs/promicro.pretty)(options "")(descr ""))
+)
