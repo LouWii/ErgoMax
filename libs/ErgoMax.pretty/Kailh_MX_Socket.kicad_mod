@@ -1,4 +1,4 @@
-(module keyboard_parts:Kailh_MX_Socket locked (layer F.Cu) (tedit 5BF0BFFF)
+(module Kailh_MX_socket:Kailh_MX_Socket locked (layer F.Cu) (tedit 5BF0BFFF)
   (fp_text reference K1 (at 0 9) (layer F.SilkS)
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
   )
