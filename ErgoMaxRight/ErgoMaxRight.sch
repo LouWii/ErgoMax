@@ -1794,7 +1794,7 @@ F 3 "~" H 2550 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole St1
+L ErgoMax:Stabilizer St1
 U 1 1 5BF6492E
 P 1650 5600
 F 0 "St1" H 1836 5653 60  0000 L CNN
@@ -1805,7 +1805,7 @@ F 3 "" H 1650 5600 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keebio:Hole St2
+L ErgoMax:Stabilizer St2
 U 1 1 5BF64AA9
 P 2500 5600
 F 0 "St2" H 2686 5653 60  0000 L CNN
@@ -1813,6 +1813,28 @@ F 1 "Stab 2U" H 2686 5547 60  0000 L CNN
 F 2 "keyboard_parts:Mx_Stab_200" H 2500 5600 60  0001 C CNN
 F 3 "" H 2500 5600 60  0001 C CNN
 	1    2500 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L ErgoMax:Logo Lg1
+U 1 1 5BF4E224
+P 1650 6000
+F 0 "Lg1" H 1778 6046 50  0000 L CNN
+F 1 "Logo" H 1778 5955 50  0000 L CNN
+F 2 "ErgoMax:LouWii-logo" H 1650 5900 50  0001 C CNN
+F 3 "" H 1650 5900 50  0001 C CNN
+	1    1650 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L ErgoMax:Logo Lg2
+U 1 1 5BF4E344
+P 2500 6000
+F 0 "Lg2" H 2628 6046 50  0000 L CNN
+F 1 "Logo" H 2628 5955 50  0000 L CNN
+F 2 "ErgoMax:ErgoMax-logo" H 2500 5900 50  0001 C CNN
+F 3 "" H 2500 5900 50  0001 C CNN
+	1    2500 6000
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

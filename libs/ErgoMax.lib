@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Logo
+#
+DEF Logo Lg 0 40 Y Y 1 F N
+F0 "Lg" 0 -100 50 H V C CNN
+F1 "Logo" 0 100 50 H V C CNN
+F2 "" 0 -100 50 H I C CNN
+F3 "" 0 -100 50 H I C CNN
+DRAW
+P 2 0 1 0 -100 50 -50 -50 N
+P 2 0 1 0 -50 -50 0 50 N
+P 2 0 1 0 -50 50 -100 -50 N
+P 2 0 1 0 -50 50 0 -50 N
+P 2 0 1 0 0 -50 50 50 N
+P 2 0 1 0 0 50 50 -50 N
+P 2 0 1 0 50 -50 100 50 N
+P 2 0 1 0 50 50 100 -50 N
+ENDDRAW
+ENDDEF
+#
+# Stabilizer
+#
+DEF Stabilizer St 0 40 Y Y 1 F N
+F0 "St" 0 -100 50 H V C CNN
+F1 "Stabilizer" 0 100 50 H V C CNN
+F2 "" 0 -100 50 H I C CNN
+F3 "" 0 -100 50 H I C CNN
+DRAW
+S -100 50 -50 -50 0 1 0 N
+S 50 50 100 -50 0 1 0 N
+P 2 0 1 0 50 -50 -50 -50 N
+ENDDRAW
+ENDDEF
+#
+#End Library
