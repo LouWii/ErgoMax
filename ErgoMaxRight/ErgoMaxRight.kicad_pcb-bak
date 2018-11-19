@@ -234,7 +234,7 @@
   )
 
   (module ErgoMax:ErgoMax-logo (layer F.Cu) (tedit 0) (tstamp 5C0B7A01)
-    (at 160.6169 46.56074)
+    (at 161.7853 46.70806)
     (path /5BF4E344)
     (fp_text reference Lg2 (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
