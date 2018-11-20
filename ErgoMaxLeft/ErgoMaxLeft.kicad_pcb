@@ -3784,7 +3784,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077589)
-    (at 196.80682 121.96572 270)
+    (at 196.523961 122.015005 270)
     (path /5BF01151)
     (fp_text reference D25 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -3810,7 +3810,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07757E)
-    (at 216.25052 123.56338 270)
+    (at 215.573961 123.325845 270)
     (path /5BF01159)
     (fp_text reference D26 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -3888,7 +3888,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07755D)
-    (at 114.57686 143.85544 270)
+    (at 115.563961 144.265005 270)
     (path /5BF079EE)
     (fp_text reference D29 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -3914,7 +3914,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077552)
-    (at 139.38504 144.30248 270)
+    (at 139.373961 144.265005 270)
     (path /5BF079B6)
     (fp_text reference D30 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -3940,7 +3940,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077547)
-    (at 158.74238 141.53642 270)
+    (at 158.423961 141.085005 270)
     (path /5BF079BD)
     (fp_text reference D31 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -3966,7 +3966,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07753C)
-    (at 178.33594 140.22832 270)
+    (at 177.473961 139.475005 270)
     (path /5BF079C5)
     (fp_text reference D32 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -3992,7 +3992,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077531)
-    (at 196.94652 141.28496 270)
+    (at 196.523961 141.055005 270)
     (path /5BF079CD)
     (fp_text reference D33 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4018,7 +4018,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077526)
-    (at 216.3826 142.83182 270)
+    (at 215.573961 142.355005 270)
     (path /5BF079D5)
     (fp_text reference D34 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4044,7 +4044,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07751B)
-    (at 216.25052 85.68182 270)
+    (at 215.573961 85.228525 270)
     (path /5BED34FA)
     (fp_text reference D12 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4148,7 +4148,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0774EF)
-    (at 158.94304 160.86074 270)
+    (at 158.423961 160.115005 270)
     (path /5BF13B54)
     (fp_text reference D39 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4174,7 +4174,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0774E4)
-    (at 178.13782 159.26054 270)
+    (at 177.473961 158.515005 270)
     (path /5BF13B5C)
     (fp_text reference D40 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4200,7 +4200,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0774D9)
-    (at 196.94652 160.46196 270)
+    (at 196.523961 160.095005 270)
     (path /5BF13B64)
     (fp_text reference D41 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4226,7 +4226,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0774CE)
-    (at 222.24746 166.40556 65)
+    (at 222.80626 166.78656 65)
     (path /5BF13B6C)
     (fp_text reference D42 (at 0 0 65) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4304,7 +4304,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0774AD)
-    (at 139.46124 125.37694 270)
+    (at 139.365561 125.227045 270)
     (path /5BF0113A)
     (fp_text reference D22 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4356,7 +4356,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077497)
-    (at 158.60776 65.51168 270)
+    (at 158.413961 64.892045 270)
     (path /5BEB3B74)
     (fp_text reference D2 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4382,7 +4382,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07748C)
-    (at 178.00574 63.89116 270)
+    (at 177.453961 63.294645 270)
     (path /5BEB3FD7)
     (fp_text reference D3 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4408,7 +4408,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077481)
-    (at 196.94652 65.2653 270)
+    (at 196.493961 64.878645 270)
     (path /5BEB53AD)
     (fp_text reference D4 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4434,7 +4434,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077476)
-    (at 216.3826 66.54546 270)
+    (at 215.531712 66.178645 270)
     (path /5BEB55C4)
     (fp_text reference D5 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4460,7 +4460,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07746B)
-    (at 234.99572 66.41338 270)
+    (at 234.623961 66.180645 270)
     (path /5BEB664E)
     (fp_text reference D6 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4486,7 +4486,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077460)
-    (at 114.80292 86.80704 270)
+    (at 115.555641 87.135645 270)
     (path /5BEF3349)
     (fp_text reference D7 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4512,7 +4512,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077455)
-    (at 139.0904 87.49538 270)
+    (at 139.361061 87.135645 270)
     (path /5BECFB47)
     (fp_text reference D8 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4538,7 +4538,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07744A)
-    (at 158.60776 84.0994 270)
+    (at 158.411061 83.945645 270)
     (path /5BED0228)
     (fp_text reference D9 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4564,7 +4564,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07743F)
-    (at 178.07178 83.058 270)
+    (at 177.456661 82.340085 270)
     (path /5BED2599)
     (fp_text reference D10 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4590,7 +4590,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077434)
-    (at 158.74238 122.27814 270)
+    (at 158.423961 122.035245 270)
     (path /5BF01141)
     (fp_text reference D23 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4616,7 +4616,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077429)
-    (at 178.20386 120.53316 270)
+    (at 177.473961 120.432245 270)
     (path /5BF01149)
     (fp_text reference D24 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4642,7 +4642,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C07741E)
-    (at 235.32338 85.54974 270)
+    (at 234.623961 85.220945 270)
     (path /5BED6DC4)
     (fp_text reference D13 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4668,7 +4668,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077413)
-    (at 114.8969 105.8291 270)
+    (at 115.559041 106.178745 270)
     (path /5BEFD611)
     (fp_text reference D14 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4694,7 +4694,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C077408)
-    (at 139.51458 106.71302 270)
+    (at 139.359821 106.188345 270)
     (path /5BEFD5D9)
     (fp_text reference D15 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4720,7 +4720,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0773FD)
-    (at 159.34436 103.48976 270)
+    (at 158.408561 102.987625 270)
     (path /5BEFD5E0)
     (fp_text reference D16 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4746,7 +4746,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0773F2)
-    (at 178.46802 102.02672 270)
+    (at 177.453001 101.384545 270)
     (path /5BEFD5E8)
     (fp_text reference D17 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4772,7 +4772,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0773E7)
-    (at 197.0151 103.34498 270)
+    (at 196.498401 102.970265 270)
     (path /5BEFD5F0)
     (fp_text reference D18 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4798,7 +4798,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0773DC)
-    (at 216.12098 104.75468 270)
+    (at 215.531561 104.281045 270)
     (path /5BEFD5F8)
     (fp_text reference D19 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4824,7 +4824,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0773D1)
-    (at 235.32338 109.78388 270)
+    (at 234.623961 109.040645 270)
     (path /5BEFD600)
     (fp_text reference D20 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4850,7 +4850,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0773C6)
-    (at 114.681 124.97054 270)
+    (at 115.569361 125.218845 270)
     (path /5BF01172)
     (fp_text reference D21 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
@@ -4876,7 +4876,7 @@
   )
 
   (module Keebio-Parts:Diode_Long (layer B.Cu) (tedit 59287378) (tstamp 5C0773BB)
-    (at 196.59854 84.16544 270)
+    (at 196.498561 83.932425 270)
     (path /5BED2D1A)
     (fp_text reference D11 (at 0 0 270) (layer B.SilkS)
       (effects (font (size 0.8 0.7) (thickness 0.15)) (justify mirror))
