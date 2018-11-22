@@ -45,3 +45,5 @@ Kicad can generate nice 3D previews of PCBs and their components.
 The 3D models of the hotswap sockets can be found there: https://github.com/qmk/qmk_hardware. Copy `kailh_socket_mx.stp` and paste it in your Kicad template folder (on Windows, it's `C:\Users\YOURNAME\kicad\template`, if the folder doesn't exist, create it).
 
 I couldn't find a 3D model for the PJ320A jack connector. The closest I found is this https://www.cui.com/product/resource/3dmodel/sj2-3574a-smt-tr, which gives a good preview of a real PJ320A.
+
+I modified this MX Switch 3D model https://grabcad.com/library/cherry-mx-switches-mx-1 and included it in the `libs` folder of the project as `MX-clean-ergomax.step`. Copy it and paste it in your KiCad template folder to make it appear in the PCB 3D renders.
