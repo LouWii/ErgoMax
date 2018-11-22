@@ -2195,7 +2195,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 180 0 0))
     )
-    (model ${KICAD_USER_TEMPLATE_DIR}/MX-Cleaned.step
+    (model ${KICAD_USER_TEMPLATE_DIR}/MX-clean-ergomax.step
       (offset (xyz -7.3 7.36 -7.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 0 0))
