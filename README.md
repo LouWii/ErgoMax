@@ -24,7 +24,7 @@ This is another big part of the project. And it hasn't started yet.
 
 The 2 parts of the keyboards are connected via a 3.5mm jack male to male cable, like almost all split keyboards.
 
-I tried to use the same 3.5 TRRS jack socket as the original ErgoDox, which is a *CP-43514*. But it's not super common, so it's changed to a *PJ320a*. They don't have the same footprint and the same number of pins, but it'll work fine as we need only 4 pins in total (VCC, GND, SDA, SCL).
+I tried to use the same 3.5 TRRS jack socket as the original ErgoDox, which is a *CP-43514*. But it's not super common, so it's changed to a *PJ320A*. They don't have the same footprint and the same number of pins, but it'll work fine as we need only 4 pins in total (VCC, GND, SDA, SCL).
 
 ### Independent
 
@@ -43,3 +43,5 @@ We are using several libraries in this project.
 Kicad can generate nice 3D previews of PCBs and their components.
 
 The 3D models of the hotswap sockets can be found there: https://github.com/qmk/qmk_hardware. Copy `kailh_socket_mx.stp` and paste it in your Kicad template folder (on Windows, it's `C:\Users\YOURNAME\kicad\template`, if the folder doesn't exist, create it).
+
+I couldn't find a 3D model for the PJ320A jack connector. The closest I found is this https://www.cui.com/product/resource/3dmodel/sj2-3574a-smt-tr, which gives a good preview of a real PJ320A.
