@@ -1,4 +1,4 @@
-(module Kailh_MX_socket:Kailh_MX_Socket locked (layer F.Cu) (tedit 5BF0BFFF)
+(module Kailh_MX_Socket locked (layer F.Cu) (tedit 5BF61EE7)
   (fp_text reference K1 (at 0 9) (layer F.SilkS)
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
   )
@@ -35,8 +35,8 @@
   (pad "" np_thru_hole circle (at -2.54 -5.08) (size 2.95 2.95) (drill 2.95) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 0 0) (size 3.98018 3.98018) (drill 3.98018) (layers *.Cu *.Mask))
   (pad 1 smd rect (at 7.36 -2.54) (size 2.55 2.5) (layers F.Cu F.Paste F.Mask))
-  (model /Users/cole/git/keyboard_parts.pretty/PG151101S11.step
-    (offset (xyz -4.65 6.8 1.8))
+  (model ${KICAD_USER_TEMPLATE_DIR}/kailh_socket_mx.stp
+    (offset (xyz 0.6 3.8 1.8))
     (scale (xyz 1 1 1))
     (rotate (xyz 180 0 0))
   )
