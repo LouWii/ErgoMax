@@ -6,4 +6,4 @@ This is the right side, for the right hand. It's supposed to be the *slave* side
 
 Render from Kicad.
 
-![ergomax-right-pcb](https://user-images.githubusercontent.com/2750789/48687621-0e65fa80-eb77-11e8-8b55-5a3f5b90b971.PNG)
+![ergomax-right-pcb-3](https://user-images.githubusercontent.com/2750789/48928973-184e6d00-ee99-11e8-9dad-f72341e05a69.PNG)
