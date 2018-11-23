@@ -3518,6 +3518,11 @@
     (pad "" np_thru_hole circle (at 11.938 -6.985 65) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at -11.938 8.255 65) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 11.938001 8.255 65) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+    (model ${KICAD_USER_TEMPLATE_DIR}/Stabilizer-closed-ergomax.step
+      (offset (xyz 12 0 -5.2))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 180))
+    )
   )
 
   (module keyboard_parts:Mx_Stab_200 (layer F.Cu) (tedit 5AA37E12) (tstamp 5C22E86A)
@@ -3588,6 +3593,11 @@
     (pad "" np_thru_hole circle (at 11.938 -6.985 245) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at -11.938 8.255 245) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
     (pad "" np_thru_hole circle (at 11.938001 8.255 245) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask))
+    (model ${KICAD_USER_TEMPLATE_DIR}/Stabilizer-closed-ergomax.STEP
+      (offset (xyz 12 0 -5.4))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 0 180))
+    )
   )
 
   (module MountingHole:MountingHole_6mm (layer F.Cu) (tedit 56D1B4CB) (tstamp 5BFC8B52)

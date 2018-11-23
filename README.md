@@ -46,4 +46,6 @@ The 3D models of the hotswap sockets can be found there: https://github.com/qmk/
 
 I couldn't find a 3D model for the PJ320A jack connector. The closest I found is this https://www.cui.com/product/resource/3dmodel/sj2-3574a-smt-tr, which gives a good preview of a real PJ320A.
 
-I modified this MX Switch 3D model https://grabcad.com/library/cherry-mx-switches-mx-1 and included it in the `libs` folder of the project as `MX-clean-ergomax.step`. Copy it and paste it in your KiCad template folder to make it appear in the PCB 3D renders.
+I modified this MX Switch 3D model https://grabcad.com/library/cherry-mx-switches-mx-1 and included it in the `libs/3dmodels` folder of the project as `MX-clean-ergomax.step`. Copy it and paste it in your KiCad template folder to make it appear in the PCB 3D renders.
+
+I also modified a 2U stabilizer model that I found there https://grabcad.com/library/cherry-mx-stabilizer-mx-1. The file is also included in the `libs/3dmodels` folder of the project as `Stabilizer-closed-ergomax.step`. Copy it and paste it in your KiCad template folder to make it appear in the PCB 3D renders.
