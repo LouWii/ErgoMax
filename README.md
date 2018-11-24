@@ -34,22 +34,22 @@ The 2 parts of the keyboard can also be totally independent from each other. As 
 
 We are using several libraries in this project.
 
-* keyboard_parts.pretty https://github.com/colemarkham/keyboard_parts.pretty - The Kailh hotswap socket footprint is taken from this project, and has been slightly modified. The 2U stabilizer footprint is from this library as well.
-* ProMicroKiCad https://github.com/Biacco42/ProMicroKiCad - The schema and footprint for the ProMicro
-* Keebio-Parts.pretty https://github.com/keebio/Keebio-Parts.pretty - Footprints for the diodes, the PJ320A jack connector, and resistors
+* keyboard_parts.pretty [https://github.com/colemarkham/keyboard_parts.pretty](https://github.com/colemarkham/keyboard_parts.pretty) - The Kailh hotswap socket footprint is taken from this project, and has been slightly modified. The 2U stabilizer footprint is from this library as well.
+* ProMicroKiCad [https://github.com/Biacco42/ProMicroKiCad](https://github.com/Biacco42/ProMicroKiCad) - The schema and footprint for the ProMicro
+* Keebio-Parts.pretty [https://github.com/keebio/Keebio-Parts.pretty](https://github.com/keebio/Keebio-Parts.pretty) - Footprints for the diodes, the PJ320A jack connector, and resistors
 
 ### 3D models
 
 Kicad can generate nice 3D previews of PCBs and their components.
 
-As we're using components that are not included in KiCad 3d templates, you'll need to add the next models into your KiCad template folder. On Windows, it's `C:\Users\YOURNAME\kicad\template`. If the folder doesn't exist, create it.
+As we're using components that are not included in KiCad 3d templates, you'll need to add the next models into your KiCad template folder. On Windows, it's `C:\Users\YOURNAME\kicad\template`, on OSX it's `/Users/YOURNAME/kicad/template`. If the folder doesn't exist, create it.
 
-The 3D models of the hotswap sockets can be found there: https://github.com/qmk/qmk_hardware. Copy `kailh_socket_mx.stp` into your KiCad template folder.
+The 3D models of the hotswap sockets can be found there: [https://github.com/qmk/qmk_hardware](https://github.com/qmk/qmk_hardware). Copy `kailh_socket_mx.stp` into your KiCad template folder.
 
-I couldn't find a 3D model for the PJ320A jack connector. The closest I found is this https://www.cui.com/product/resource/3dmodel/sj2-3574a-smt-tr, which gives a good preview of a real PJ320A. Copy `CUI_SJ2-3574A-SMT-TR.step` into your KiCad template folder.
+I couldn't find a 3D model for the PJ320A jack connector. The closest I found is this [https://www.cui.com/product/resource/3dmodel/sj2-3574a-smt-tr](https://www.cui.com/product/resource/3dmodel/sj2-3574a-smt-tr), which gives a good preview of a real PJ320A. Copy `CUI_SJ2-3574A-SMT-TR.step` into your KiCad template folder.
 
-I modified this MX Switch 3D model https://grabcad.com/library/cherry-mx-switches-mx-1 and included it in the `libs/3dmodels` folder of the project as `MX-clean-ergomax.step`. 
+I modified this MX Switch 3D model [https://grabcad.com/library/cherry-mx-switches-mx-1](https://grabcad.com/library/cherry-mx-switches-mx-1) and included it in the `libs/3dmodels` folder of the project as `MX-clean-ergomax.step`. 
 
-I also modified a 2U stabilizer model that I found there https://grabcad.com/library/cherry-mx-stabilizer-mx-1. The file is also included in the `libs/3dmodels` folder of the project as `Stabilizer-closed-ergomax.step`.
+I also modified a 2U stabilizer model that I found there [https://grabcad.com/library/cherry-mx-stabilizer-mx-1](https://grabcad.com/library/cherry-mx-stabilizer-mx-1). The file is also included in the `libs/3dmodels` folder of the project as `Stabilizer-closed-ergomax.step`.
 
-I once again modified a ProMicro 3D model https://grabcad.com/library/arduino-pro-micro-1. The file is called `Pro-micro-clean-ergomax.step` and is stored in `libs/3dmodels`.
+I once again modified a ProMicro 3D model [https://grabcad.com/library/arduino-pro-micro-1](https://grabcad.com/library/arduino-pro-micro-1). The file is called `Pro-micro-clean-ergomax.step` and is stored in `libs/3dmodels`.
