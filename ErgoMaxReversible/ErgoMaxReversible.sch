@@ -20,7 +20,7 @@ U 1 1 5BE6949D
 P 1950 3400
 F 0 "U1" H 1950 4437 60  0000 C CNN
 F 1 "ProMicro" H 1950 4331 60  0000 C CNN
-F 2 "promicro:ProMicro" H 2050 2350 60  0001 C CNN
+F 2 "ErgoMax:ProMicroReversible" H 2050 2350 60  0001 C CNN
 F 3 "" H 2050 2350 60  0000 C CNN
 	1    1950 3400
 	1    0    0    -1  

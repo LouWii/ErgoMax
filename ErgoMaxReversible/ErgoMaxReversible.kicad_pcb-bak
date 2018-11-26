@@ -233,7 +233,7 @@
     (add_net VCC)
   )
 
-  (module ErgoMax:RightSideText (layer F.Cu) (tedit 5BFB776B) (tstamp 5C2ECBCC)
+  (module ErgoMax:RightSideText (layer F.Cu) (tedit 5BFB77F0) (tstamp 5C2ECBCC)
     (at 208.20126 45.65396)
     (path /5BFDEB96)
     (fp_text reference Lg6 (at 0 0.5) (layer F.SilkS) hide
@@ -242,12 +242,12 @@
     (fp_text value Logo (at 0 -0.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user "Right Side" (at 0 0) (layer F.SilkS)
-      (effects (font (size 4 4) (thickness 0.6)))
+    (fp_text user "Right Side" (at 0 0) (layer B.SilkS)
+      (effects (font (size 4 4) (thickness 0.6)) (justify mirror))
     )
   )
 
-  (module ErgoMax:LeftSideText (layer F.Cu) (tedit 5BFB77C3) (tstamp 5C2E2B20)
+  (module ErgoMax:LeftSideText (layer F.Cu) (tedit 5BFB77F9) (tstamp 5C2E2B20)
     (at 208.20634 45.65396)
     (path /5BFDE88B)
     (fp_text reference Lg5 (at 0 0.5) (layer F.SilkS) hide
@@ -256,8 +256,8 @@
     (fp_text value Logo (at 0 -0.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user "Left Side" (at 0 0) (layer B.SilkS)
-      (effects (font (size 4 4) (thickness 0.6)) (justify mirror))
+    (fp_text user "Left Side" (at 0 0) (layer F.SilkS)
+      (effects (font (size 4 4) (thickness 0.6)))
     )
   )
 
