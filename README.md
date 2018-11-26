@@ -53,3 +53,16 @@ I modified this MX Switch 3D model [https://grabcad.com/library/cherry-mx-switch
 I also modified a 2U stabilizer model that I found there [https://grabcad.com/library/cherry-mx-stabilizer-mx-1](https://grabcad.com/library/cherry-mx-stabilizer-mx-1). The file is also included in the `libs/3dmodels` folder of the project as `Stabilizer-closed-ergomax.step`.
 
 I once again modified a ProMicro 3D model [https://grabcad.com/library/arduino-pro-micro-1](https://grabcad.com/library/arduino-pro-micro-1). The file is called `Pro-micro-clean-ergomax.step` and is stored in `libs/3dmodels`.
+
+## Print the PCBs
+
+* [https://pcbshopper.com/ - price comparison](https://pcbshopper.com/) 
+* [https://jlcpcb.com/](https://jlcpcb.com/)
+* [https://www.pcbway.com/](https://www.pcbway.com/)
+* [https://oshpark.com/](https://oshpark.com/)
+* [https://www.pcbcart.com/](https://www.pcbcart.com/)
+* [https://www.7pcb.ca/](https://www.7pcb.ca/pcb-fabrication/)
+* [https://www.4pcb.com/](https://www.4pcb.com/)
+* [https://www.pcbgogo.com/](https://www.pcbgogo.com/)
+* [https://dirtypcbs.com/](https://dirtypcbs.com/)
+
