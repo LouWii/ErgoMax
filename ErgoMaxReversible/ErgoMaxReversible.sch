@@ -31,7 +31,7 @@ U 1 1 5BE69E3A
 P 5000 2050
 F 0 "K1" H 5000 2283 60  0000 C CNN
 F 1 "KEYSW" H 5000 1950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5000 2050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5000 2050 60  0001 C CNN
 F 3 "" H 5000 2050 60  0000 C CNN
 	1    5000 2050
 	1    0    0    -1  
@@ -42,7 +42,7 @@ U 1 1 5BE6A26C
 P 5850 2050
 F 0 "K2" H 5850 2283 60  0000 C CNN
 F 1 "KEYSW" H 5850 1950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5850 2050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5850 2050 60  0001 C CNN
 F 3 "" H 5850 2050 60  0000 C CNN
 	1    5850 2050
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5BE6A2E7
 P 6700 2050
 F 0 "K3" H 6700 2283 60  0000 C CNN
 F 1 "KEYSW" H 6700 1950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 6700 2050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 6700 2050 60  0001 C CNN
 F 3 "" H 6700 2050 60  0000 C CNN
 	1    6700 2050
 	1    0    0    -1  
@@ -64,7 +64,7 @@ U 1 1 5BE6A367
 P 7550 2050
 F 0 "K4" H 7550 2283 60  0000 C CNN
 F 1 "KEYSW" H 7550 1950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 7550 2050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 7550 2050 60  0001 C CNN
 F 3 "" H 7550 2050 60  0000 C CNN
 	1    7550 2050
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5BE6A3DC
 P 8400 2050
 F 0 "K5" H 8400 2283 60  0000 C CNN
 F 1 "KEYSW" H 8400 1950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 8400 2050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 8400 2050 60  0001 C CNN
 F 3 "" H 8400 2050 60  0000 C CNN
 	1    8400 2050
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5BE6A8C0
 P 9250 2050
 F 0 "K6" H 9250 2283 60  0000 C CNN
 F 1 "KEYSW" H 9250 1950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 9250 2050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 9250 2050 60  0001 C CNN
 F 3 "" H 9250 2050 60  0000 C CNN
 	1    9250 2050
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5BEB2CE6
 P 5000 2650
 F 0 "K8" H 5000 2850 60  0000 C CNN
 F 1 "KEYSW" H 5000 2550 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5000 2650 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5000 2650 60  0001 C CNN
 F 3 "" H 5000 2650 60  0000 C CNN
 	1    5000 2650
 	1    0    0    -1  
@@ -145,7 +145,7 @@ U 1 1 5BEB3ED6
 P 4150 2650
 F 0 "K7" H 4150 2850 60  0000 C CNN
 F 1 "KEYSW" H 4150 2550 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 4150 2650 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 4150 2650 60  0001 C CNN
 F 3 "" H 4150 2650 60  0000 C CNN
 	1    4150 2650
 	1    0    0    -1  
@@ -216,7 +216,7 @@ U 1 1 5BEBC92E
 P 5850 2650
 F 0 "K9" H 5850 2850 60  0000 C CNN
 F 1 "KEYSW" H 5850 2550 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5850 2650 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5850 2650 60  0001 C CNN
 F 3 "" H 5850 2650 60  0000 C CNN
 	1    5850 2650
 	1    0    0    -1  
@@ -227,7 +227,7 @@ U 1 1 5BEBC935
 P 6700 2650
 F 0 "K10" H 6700 2850 60  0000 C CNN
 F 1 "KEYSW" H 6700 2550 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 6700 2650 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 6700 2650 60  0001 C CNN
 F 3 "" H 6700 2650 60  0000 C CNN
 	1    6700 2650
 	1    0    0    -1  
@@ -238,7 +238,7 @@ U 1 1 5BEBC93C
 P 7550 2650
 F 0 "K11" H 7550 2850 60  0000 C CNN
 F 1 "KEYSW" H 7550 2550 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 7550 2650 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 7550 2650 60  0001 C CNN
 F 3 "" H 7550 2650 60  0000 C CNN
 	1    7550 2650
 	1    0    0    -1  
@@ -249,7 +249,7 @@ U 1 1 5BEBC943
 P 8400 2650
 F 0 "K12" H 8400 2850 60  0000 C CNN
 F 1 "KEYSW" H 8400 2550 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 8400 2650 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 8400 2650 60  0001 C CNN
 F 3 "" H 8400 2650 60  0000 C CNN
 	1    8400 2650
 	1    0    0    -1  
@@ -260,7 +260,7 @@ U 1 1 5BEBC94A
 P 9250 2650
 F 0 "K13" H 9250 2850 60  0000 C CNN
 F 1 "KEYSW" H 9250 2550 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 9250 2650 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 9250 2650 60  0001 C CNN
 F 3 "" H 9250 2650 60  0000 C CNN
 	1    9250 2650
 	1    0    0    -1  
@@ -416,7 +416,7 @@ U 1 1 5BEFD5A3
 P 5000 3250
 F 0 "K15" H 5000 3450 60  0000 C CNN
 F 1 "KEYSW" H 5000 3150 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5000 3250 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5000 3250 60  0001 C CNN
 F 3 "" H 5000 3250 60  0000 C CNN
 	1    5000 3250
 	1    0    0    -1  
@@ -427,7 +427,7 @@ U 1 1 5BEFD5AA
 P 4150 3250
 F 0 "K14" H 4150 3450 60  0000 C CNN
 F 1 "KEYSW" H 4150 3150 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 4150 3250 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 4150 3250 60  0001 C CNN
 F 3 "" H 4150 3250 60  0000 C CNN
 	1    4150 3250
 	1    0    0    -1  
@@ -438,7 +438,7 @@ U 1 1 5BEFD5B1
 P 5850 3250
 F 0 "K16" H 5850 3450 60  0000 C CNN
 F 1 "KEYSW" H 5850 3150 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5850 3250 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5850 3250 60  0001 C CNN
 F 3 "" H 5850 3250 60  0000 C CNN
 	1    5850 3250
 	1    0    0    -1  
@@ -449,7 +449,7 @@ U 1 1 5BEFD5B8
 P 6700 3250
 F 0 "K17" H 6700 3450 60  0000 C CNN
 F 1 "KEYSW" H 6700 3150 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 6700 3250 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 6700 3250 60  0001 C CNN
 F 3 "" H 6700 3250 60  0000 C CNN
 	1    6700 3250
 	1    0    0    -1  
@@ -460,7 +460,7 @@ U 1 1 5BEFD5BF
 P 7550 3250
 F 0 "K18" H 7550 3450 60  0000 C CNN
 F 1 "KEYSW" H 7550 3150 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 7550 3250 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 7550 3250 60  0001 C CNN
 F 3 "" H 7550 3250 60  0000 C CNN
 	1    7550 3250
 	1    0    0    -1  
@@ -471,7 +471,7 @@ U 1 1 5BEFD5C6
 P 8400 3250
 F 0 "K19" H 8400 3450 60  0000 C CNN
 F 1 "KEYSW" H 8400 3150 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 8400 3250 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 8400 3250 60  0001 C CNN
 F 3 "" H 8400 3250 60  0000 C CNN
 	1    8400 3250
 	1    0    0    -1  
@@ -482,7 +482,7 @@ U 1 1 5BEFD5CD
 P 9250 3250
 F 0 "K20" H 9250 3450 60  0000 C CNN
 F 1 "KEYSW" H 9250 3150 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 9250 3250 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 9250 3250 60  0001 C CNN
 F 3 "" H 9250 3250 60  0000 C CNN
 	1    9250 3250
 	1    0    0    -1  
@@ -612,7 +612,7 @@ U 1 1 5BF01104
 P 5000 3850
 F 0 "K22" H 5000 4050 60  0000 C CNN
 F 1 "KEYSW" H 5000 3750 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5000 3850 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5000 3850 60  0001 C CNN
 F 3 "" H 5000 3850 60  0000 C CNN
 	1    5000 3850
 	1    0    0    -1  
@@ -623,7 +623,7 @@ U 1 1 5BF0110B
 P 4150 3850
 F 0 "K21" H 4150 4050 60  0000 C CNN
 F 1 "KEYSW" H 4150 3750 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 4150 3850 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 4150 3850 60  0001 C CNN
 F 3 "" H 4150 3850 60  0000 C CNN
 	1    4150 3850
 	1    0    0    -1  
@@ -634,7 +634,7 @@ U 1 1 5BF01112
 P 5850 3850
 F 0 "K23" H 5850 4050 60  0000 C CNN
 F 1 "KEYSW" H 5850 3750 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5850 3850 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5850 3850 60  0001 C CNN
 F 3 "" H 5850 3850 60  0000 C CNN
 	1    5850 3850
 	1    0    0    -1  
@@ -645,7 +645,7 @@ U 1 1 5BF01119
 P 6700 3850
 F 0 "K24" H 6700 4050 60  0000 C CNN
 F 1 "KEYSW" H 6700 3750 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 6700 3850 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 6700 3850 60  0001 C CNN
 F 3 "" H 6700 3850 60  0000 C CNN
 	1    6700 3850
 	1    0    0    -1  
@@ -656,7 +656,7 @@ U 1 1 5BF01120
 P 7550 3850
 F 0 "K25" H 7550 4050 60  0000 C CNN
 F 1 "KEYSW" H 7550 3750 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 7550 3850 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 7550 3850 60  0001 C CNN
 F 3 "" H 7550 3850 60  0000 C CNN
 	1    7550 3850
 	1    0    0    -1  
@@ -667,7 +667,7 @@ U 1 1 5BF01127
 P 8400 3850
 F 0 "K26" H 8400 4050 60  0000 C CNN
 F 1 "KEYSW" H 8400 3750 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 8400 3850 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 8400 3850 60  0001 C CNN
 F 3 "" H 8400 3850 60  0000 C CNN
 	1    8400 3850
 	1    0    0    -1  
@@ -678,7 +678,7 @@ U 1 1 5BF0112E
 P 9250 3850
 F 0 "K27" H 9250 4050 60  0000 C CNN
 F 1 "KEYSW" H 9250 3750 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 9250 3850 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 9250 3850 60  0001 C CNN
 F 3 "" H 9250 3850 60  0000 C CNN
 	1    9250 3850
 	1    0    0    -1  
@@ -808,7 +808,7 @@ U 1 1 5BF07980
 P 5000 4450
 F 0 "K30" H 5000 4650 60  0000 C CNN
 F 1 "KEYSW" H 5000 4350 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5000 4450 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5000 4450 60  0001 C CNN
 F 3 "" H 5000 4450 60  0000 C CNN
 	1    5000 4450
 	1    0    0    -1  
@@ -819,7 +819,7 @@ U 1 1 5BF07987
 P 4150 4450
 F 0 "K29" H 4150 4650 60  0000 C CNN
 F 1 "KEYSW" H 4150 4350 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 4150 4450 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 4150 4450 60  0001 C CNN
 F 3 "" H 4150 4450 60  0000 C CNN
 	1    4150 4450
 	1    0    0    -1  
@@ -830,7 +830,7 @@ U 1 1 5BF0798E
 P 5850 4450
 F 0 "K31" H 5850 4650 60  0000 C CNN
 F 1 "KEYSW" H 5850 4350 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5850 4450 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5850 4450 60  0001 C CNN
 F 3 "" H 5850 4450 60  0000 C CNN
 	1    5850 4450
 	1    0    0    -1  
@@ -841,7 +841,7 @@ U 1 1 5BF07995
 P 6700 4450
 F 0 "K32" H 6700 4650 60  0000 C CNN
 F 1 "KEYSW" H 6700 4350 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 6700 4450 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 6700 4450 60  0001 C CNN
 F 3 "" H 6700 4450 60  0000 C CNN
 	1    6700 4450
 	1    0    0    -1  
@@ -852,7 +852,7 @@ U 1 1 5BF0799C
 P 7550 4450
 F 0 "K33" H 7550 4650 60  0000 C CNN
 F 1 "KEYSW" H 7550 4350 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 7550 4450 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 7550 4450 60  0001 C CNN
 F 3 "" H 7550 4450 60  0000 C CNN
 	1    7550 4450
 	1    0    0    -1  
@@ -863,7 +863,7 @@ U 1 1 5BF079A3
 P 8400 4450
 F 0 "K34" H 8400 4650 60  0000 C CNN
 F 1 "KEYSW" H 8400 4350 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 8400 4450 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 8400 4450 60  0001 C CNN
 F 3 "" H 8400 4450 60  0000 C CNN
 	1    8400 4450
 	1    0    0    -1  
@@ -874,7 +874,7 @@ U 1 1 5BF079AA
 P 9250 4450
 F 0 "K35" H 9250 4650 60  0000 C CNN
 F 1 "KEYSW" H 9250 4350 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 9250 4450 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 9250 4450 60  0001 C CNN
 F 3 "" H 9250 4450 60  0000 C CNN
 	1    9250 4450
 	1    0    0    -1  
@@ -1004,7 +1004,7 @@ U 1 1 5BF13B17
 P 5000 5050
 F 0 "K38" H 5000 5250 60  0000 C CNN
 F 1 "KEYSW" H 5000 4950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5000 5050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5000 5050 60  0001 C CNN
 F 3 "" H 5000 5050 60  0000 C CNN
 	1    5000 5050
 	1    0    0    -1  
@@ -1015,7 +1015,7 @@ U 1 1 5BF13B1E
 P 4150 5050
 F 0 "K37" H 4150 5250 60  0000 C CNN
 F 1 "KEYSW" H 4150 4950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 4150 5050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 4150 5050 60  0001 C CNN
 F 3 "" H 4150 5050 60  0000 C CNN
 	1    4150 5050
 	1    0    0    -1  
@@ -1026,7 +1026,7 @@ U 1 1 5BF13B25
 P 5850 5050
 F 0 "K39" H 5850 5250 60  0000 C CNN
 F 1 "KEYSW" H 5850 4950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 5850 5050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 5850 5050 60  0001 C CNN
 F 3 "" H 5850 5050 60  0000 C CNN
 	1    5850 5050
 	1    0    0    -1  
@@ -1037,7 +1037,7 @@ U 1 1 5BF13B2C
 P 6700 5050
 F 0 "K40" H 6700 5250 60  0000 C CNN
 F 1 "KEYSW" H 6700 4950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 6700 5050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 6700 5050 60  0001 C CNN
 F 3 "" H 6700 5050 60  0000 C CNN
 	1    6700 5050
 	1    0    0    -1  
@@ -1048,7 +1048,7 @@ U 1 1 5BF13B33
 P 7550 5050
 F 0 "K41" H 7550 5250 60  0000 C CNN
 F 1 "KEYSW" H 7550 4950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 7550 5050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 7550 5050 60  0001 C CNN
 F 3 "" H 7550 5050 60  0000 C CNN
 	1    7550 5050
 	1    0    0    -1  
@@ -1059,7 +1059,7 @@ U 1 1 5BF13B3A
 P 8400 5050
 F 0 "K42" H 8400 5250 60  0000 C CNN
 F 1 "KEYSW" H 8400 4950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 8400 5050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 8400 5050 60  0001 C CNN
 F 3 "" H 8400 5050 60  0000 C CNN
 	1    8400 5050
 	1    0    0    -1  
@@ -1070,7 +1070,7 @@ U 1 1 5BF13B41
 P 9250 5050
 F 0 "K43" H 9250 5250 60  0000 C CNN
 F 1 "KEYSW" H 9250 4950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 9250 5050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 9250 5050 60  0001 C CNN
 F 3 "" H 9250 5050 60  0000 C CNN
 	1    9250 5050
 	1    0    0    -1  
@@ -1469,7 +1469,7 @@ U 1 1 5C111A51
 P 10100 5050
 F 0 "K44" H 10100 5250 60  0000 C CNN
 F 1 "KEYSW" H 10100 4950 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 10100 5050 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 10100 5050 60  0001 C CNN
 F 3 "" H 10100 5050 60  0000 C CNN
 	1    10100 5050
 	1    0    0    -1  
@@ -1480,7 +1480,7 @@ U 1 1 5C111BB8
 P 10100 4450
 F 0 "K36" H 10100 4650 60  0000 C CNN
 F 1 "KEYSW" H 10100 4350 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 10100 4450 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 10100 4450 60  0001 C CNN
 F 3 "" H 10100 4450 60  0000 C CNN
 	1    10100 4450
 	1    0    0    -1  
@@ -1491,7 +1491,7 @@ U 1 1 5C111CFC
 P 10100 3850
 F 0 "K28" H 10100 4083 60  0000 C CNN
 F 1 "KEYSW" H 10100 3750 60  0001 C CNN
-F 2 "keyboard_parts:Kailh_MX_Socket_reversible" H 10100 3850 60  0001 C CNN
+F 2 "ErgoMax:Kailh_MX_Socket_reversible" H 10100 3850 60  0001 C CNN
 F 3 "" H 10100 3850 60  0000 C CNN
 	1    10100 3850
 	1    0    0    -1  
@@ -1857,6 +1857,28 @@ F 1 "Logo" H 2628 6205 50  0000 L CNN
 F 2 "ErgoMax:ErgoMax-logo" H 2500 6150 50  0001 C CNN
 F 3 "" H 2500 6150 50  0001 C CNN
 	1    2500 6250
+	1    0    0    -1  
+$EndComp
+$Comp
+L ErgoMax:Logo Lg5
+U 1 1 5BFDE88B
+P 1650 6500
+F 0 "Lg5" H 1778 6546 50  0000 L CNN
+F 1 "Logo" H 1778 6455 50  0000 L CNN
+F 2 "ErgoMax:LeftSideText" H 1650 6400 50  0001 C CNN
+F 3 "" H 1650 6400 50  0001 C CNN
+	1    1650 6500
+	1    0    0    -1  
+$EndComp
+$Comp
+L ErgoMax:Logo Lg6
+U 1 1 5BFDEB96
+P 2500 6500
+F 0 "Lg6" H 2628 6546 50  0000 L CNN
+F 1 "Logo" H 2628 6455 50  0000 L CNN
+F 2 "ErgoMax:RightSideText" H 2500 6400 50  0001 C CNN
+F 3 "" H 2500 6400 50  0001 C CNN
+	1    2500 6500
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
