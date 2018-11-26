@@ -130,7 +130,7 @@ U 1 1 5BEB3B74
 P 6300 2250
 F 0 "D2" V 6346 2171 50  0000 R CNN
 F 1 "D" V 6255 2171 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 6300 2250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 6300 2250 50  0001 C CNN
 F 3 "~" H 6300 2250 50  0001 C CNN
 	1    6300 2250
 	0    -1   -1   0   
@@ -156,7 +156,7 @@ U 1 1 5BEB3FD7
 P 7150 2250
 F 0 "D3" V 7196 2171 50  0000 R CNN
 F 1 "D" V 7105 2171 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7150 2250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7150 2250 50  0001 C CNN
 F 3 "~" H 7150 2250 50  0001 C CNN
 	1    7150 2250
 	0    -1   -1   0   
@@ -171,7 +171,7 @@ U 1 1 5BEB53AD
 P 8000 2250
 F 0 "D4" V 8046 2171 50  0000 R CNN
 F 1 "D" V 7955 2171 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 8000 2250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 8000 2250 50  0001 C CNN
 F 3 "~" H 8000 2250 50  0001 C CNN
 	1    8000 2250
 	0    -1   -1   0   
@@ -186,7 +186,7 @@ U 1 1 5BEB55C4
 P 8850 2250
 F 0 "D5" V 8896 2171 50  0000 R CNN
 F 1 "D" V 8805 2171 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 8850 2250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 8850 2250 50  0001 C CNN
 F 3 "~" H 8850 2250 50  0001 C CNN
 	1    8850 2250
 	0    -1   -1   0   
@@ -201,7 +201,7 @@ U 1 1 5BEB664E
 P 9700 2250
 F 0 "D6" V 9746 2171 50  0000 R CNN
 F 1 "D" V 9655 2171 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 9700 2250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 9700 2250 50  0001 C CNN
 F 3 "~" H 9700 2250 50  0001 C CNN
 	1    9700 2250
 	0    -1   -1   0   
@@ -293,7 +293,7 @@ U 1 1 5BECFB47
 P 5350 2850
 F 0 "D8" V 5396 2771 50  0000 R CNN
 F 1 "D" V 5305 2771 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 5350 2850 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 5350 2850 50  0001 C CNN
 F 3 "~" H 5350 2850 50  0001 C CNN
 	1    5350 2850
 	0    -1   -1   0   
@@ -304,7 +304,7 @@ U 1 1 5BED0228
 P 6200 2850
 F 0 "D9" V 6246 2771 50  0000 R CNN
 F 1 "D" V 6155 2771 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 6200 2850 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 6200 2850 50  0001 C CNN
 F 3 "~" H 6200 2850 50  0001 C CNN
 	1    6200 2850
 	0    -1   -1   0   
@@ -317,7 +317,7 @@ U 1 1 5BED2599
 P 7050 2850
 F 0 "D10" V 7096 2771 50  0000 R CNN
 F 1 "D" V 7005 2771 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7050 2850 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7050 2850 50  0001 C CNN
 F 3 "~" H 7050 2850 50  0001 C CNN
 	1    7050 2850
 	0    -1   -1   0   
@@ -330,7 +330,7 @@ U 1 1 5BED2D1A
 P 7900 2850
 F 0 "D11" V 7946 2771 50  0000 R CNN
 F 1 "D" V 7855 2771 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7900 2850 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7900 2850 50  0001 C CNN
 F 3 "~" H 7900 2850 50  0001 C CNN
 	1    7900 2850
 	0    -1   -1   0   
@@ -343,7 +343,7 @@ U 1 1 5BED34FA
 P 8750 2850
 F 0 "D12" V 8796 2771 50  0000 R CNN
 F 1 "D" V 8705 2771 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 8750 2850 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 8750 2850 50  0001 C CNN
 F 3 "~" H 8750 2850 50  0001 C CNN
 	1    8750 2850
 	0    -1   -1   0   
@@ -356,7 +356,7 @@ U 1 1 5BED6DC4
 P 9600 2850
 F 0 "D13" V 9646 2928 50  0000 L CNN
 F 1 "D" V 9555 2928 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 9600 2850 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 9600 2850 50  0001 C CNN
 F 3 "~" H 9600 2850 50  0001 C CNN
 	1    9600 2850
 	0    -1   -1   0   
@@ -401,7 +401,7 @@ U 1 1 5BEF3349
 P 4500 2850
 F 0 "D7" V 4546 2771 50  0000 R CNN
 F 1 "D" V 4455 2771 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 4500 2850 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 4500 2850 50  0001 C CNN
 F 3 "~" H 4500 2850 50  0001 C CNN
 	1    4500 2850
 	0    -1   -1   0   
@@ -503,7 +503,7 @@ U 1 1 5BEFD5D9
 P 5350 3450
 F 0 "D15" V 5396 3371 50  0000 R CNN
 F 1 "D" V 5305 3371 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 5350 3450 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 5350 3450 50  0001 C CNN
 F 3 "~" H 5350 3450 50  0001 C CNN
 	1    5350 3450
 	0    -1   -1   0   
@@ -514,7 +514,7 @@ U 1 1 5BEFD5E0
 P 6200 3450
 F 0 "D16" V 6246 3371 50  0000 R CNN
 F 1 "D" V 6155 3371 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 6200 3450 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 6200 3450 50  0001 C CNN
 F 3 "~" H 6200 3450 50  0001 C CNN
 	1    6200 3450
 	0    -1   -1   0   
@@ -527,7 +527,7 @@ U 1 1 5BEFD5E8
 P 7050 3450
 F 0 "D17" V 7096 3371 50  0000 R CNN
 F 1 "D" V 7005 3371 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7050 3450 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7050 3450 50  0001 C CNN
 F 3 "~" H 7050 3450 50  0001 C CNN
 	1    7050 3450
 	0    -1   -1   0   
@@ -540,7 +540,7 @@ U 1 1 5BEFD5F0
 P 7900 3450
 F 0 "D18" V 7946 3371 50  0000 R CNN
 F 1 "D" V 7855 3371 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7900 3450 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7900 3450 50  0001 C CNN
 F 3 "~" H 7900 3450 50  0001 C CNN
 	1    7900 3450
 	0    -1   -1   0   
@@ -553,7 +553,7 @@ U 1 1 5BEFD5F8
 P 8750 3450
 F 0 "D19" V 8796 3371 50  0000 R CNN
 F 1 "D" V 8705 3371 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 8750 3450 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 8750 3450 50  0001 C CNN
 F 3 "~" H 8750 3450 50  0001 C CNN
 	1    8750 3450
 	0    -1   -1   0   
@@ -566,7 +566,7 @@ U 1 1 5BEFD600
 P 9600 3450
 F 0 "D20" V 9646 3528 50  0000 L CNN
 F 1 "D" V 9555 3528 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 9600 3450 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 9600 3450 50  0001 C CNN
 F 3 "~" H 9600 3450 50  0001 C CNN
 	1    9600 3450
 	0    -1   -1   0   
@@ -597,7 +597,7 @@ U 1 1 5BEFD611
 P 4500 3450
 F 0 "D14" V 4546 3371 50  0000 R CNN
 F 1 "D" V 4455 3371 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 4500 3450 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 4500 3450 50  0001 C CNN
 F 3 "~" H 4500 3450 50  0001 C CNN
 	1    4500 3450
 	0    -1   -1   0   
@@ -699,7 +699,7 @@ U 1 1 5BF0113A
 P 5350 4050
 F 0 "D22" V 5396 3971 50  0000 R CNN
 F 1 "D" V 5305 3971 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 5350 4050 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 5350 4050 50  0001 C CNN
 F 3 "~" H 5350 4050 50  0001 C CNN
 	1    5350 4050
 	0    -1   -1   0   
@@ -710,7 +710,7 @@ U 1 1 5BF01141
 P 6200 4050
 F 0 "D23" V 6246 3971 50  0000 R CNN
 F 1 "D" V 6155 3971 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 6200 4050 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 6200 4050 50  0001 C CNN
 F 3 "~" H 6200 4050 50  0001 C CNN
 	1    6200 4050
 	0    -1   -1   0   
@@ -723,7 +723,7 @@ U 1 1 5BF01149
 P 7050 4050
 F 0 "D24" V 7096 3971 50  0000 R CNN
 F 1 "D" V 7005 3971 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7050 4050 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7050 4050 50  0001 C CNN
 F 3 "~" H 7050 4050 50  0001 C CNN
 	1    7050 4050
 	0    -1   -1   0   
@@ -736,7 +736,7 @@ U 1 1 5BF01151
 P 7900 4050
 F 0 "D25" V 7946 3971 50  0000 R CNN
 F 1 "D" V 7855 3971 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7900 4050 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7900 4050 50  0001 C CNN
 F 3 "~" H 7900 4050 50  0001 C CNN
 	1    7900 4050
 	0    -1   -1   0   
@@ -749,7 +749,7 @@ U 1 1 5BF01159
 P 8750 4050
 F 0 "D26" V 8796 3971 50  0000 R CNN
 F 1 "D" V 8705 3971 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 8750 4050 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 8750 4050 50  0001 C CNN
 F 3 "~" H 8750 4050 50  0001 C CNN
 	1    8750 4050
 	0    -1   -1   0   
@@ -762,7 +762,7 @@ U 1 1 5BF01161
 P 9600 4050
 F 0 "D27" V 9646 4128 50  0000 L CNN
 F 1 "D" V 9555 4128 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 9600 4050 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 9600 4050 50  0001 C CNN
 F 3 "~" H 9600 4050 50  0001 C CNN
 	1    9600 4050
 	0    -1   -1   0   
@@ -793,7 +793,7 @@ U 1 1 5BF01172
 P 4500 4050
 F 0 "D21" V 4546 3971 50  0000 R CNN
 F 1 "D" V 4455 3971 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 4500 4050 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 4500 4050 50  0001 C CNN
 F 3 "~" H 4500 4050 50  0001 C CNN
 	1    4500 4050
 	0    -1   -1   0   
@@ -895,7 +895,7 @@ U 1 1 5BF079B6
 P 5350 4650
 F 0 "D30" V 5396 4571 50  0000 R CNN
 F 1 "D" V 5305 4571 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 5350 4650 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 5350 4650 50  0001 C CNN
 F 3 "~" H 5350 4650 50  0001 C CNN
 	1    5350 4650
 	0    -1   -1   0   
@@ -906,7 +906,7 @@ U 1 1 5BF079BD
 P 6200 4650
 F 0 "D31" V 6246 4571 50  0000 R CNN
 F 1 "D" V 6155 4571 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 6200 4650 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 6200 4650 50  0001 C CNN
 F 3 "~" H 6200 4650 50  0001 C CNN
 	1    6200 4650
 	0    -1   -1   0   
@@ -919,7 +919,7 @@ U 1 1 5BF079C5
 P 7050 4650
 F 0 "D32" V 7096 4571 50  0000 R CNN
 F 1 "D" V 7005 4571 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7050 4650 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7050 4650 50  0001 C CNN
 F 3 "~" H 7050 4650 50  0001 C CNN
 	1    7050 4650
 	0    -1   -1   0   
@@ -932,7 +932,7 @@ U 1 1 5BF079CD
 P 7900 4650
 F 0 "D33" V 7946 4571 50  0000 R CNN
 F 1 "D" V 7855 4571 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 7900 4650 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7900 4650 50  0001 C CNN
 F 3 "~" H 7900 4650 50  0001 C CNN
 	1    7900 4650
 	0    -1   -1   0   
@@ -945,7 +945,7 @@ U 1 1 5BF079D5
 P 8750 4650
 F 0 "D34" V 8796 4571 50  0000 R CNN
 F 1 "D" V 8705 4571 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 8750 4650 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 8750 4650 50  0001 C CNN
 F 3 "~" H 8750 4650 50  0001 C CNN
 	1    8750 4650
 	0    -1   -1   0   
@@ -958,7 +958,7 @@ U 1 1 5BF079DD
 P 9600 4650
 F 0 "D35" V 9646 4571 50  0000 R CNN
 F 1 "D" V 9555 4571 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 9600 4650 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 9600 4650 50  0001 C CNN
 F 3 "~" H 9600 4650 50  0001 C CNN
 	1    9600 4650
 	0    -1   -1   0   
@@ -989,7 +989,7 @@ U 1 1 5BF079EE
 P 4500 4650
 F 0 "D29" V 4546 4571 50  0000 R CNN
 F 1 "D" V 4455 4571 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 4500 4650 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 4500 4650 50  0001 C CNN
 F 3 "~" H 4500 4650 50  0001 C CNN
 	1    4500 4650
 	0    -1   -1   0   
@@ -1091,7 +1091,7 @@ U 1 1 5BF13B4D
 P 5350 5250
 F 0 "D38" V 5396 5328 50  0000 L CNN
 F 1 "D" V 5305 5328 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 5350 5250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 5350 5250 50  0001 C CNN
 F 3 "~" H 5350 5250 50  0001 C CNN
 	1    5350 5250
 	0    -1   -1   0   
@@ -1102,7 +1102,7 @@ U 1 1 5BF13B54
 P 6200 5250
 F 0 "D39" V 6246 5328 50  0000 L CNN
 F 1 "D" V 6155 5328 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 6200 5250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 6200 5250 50  0001 C CNN
 F 3 "~" H 6200 5250 50  0001 C CNN
 	1    6200 5250
 	0    -1   -1   0   
@@ -1115,7 +1115,7 @@ U 1 1 5BF13B5C
 P 7050 5250
 F 0 "D40" V 7096 5328 50  0000 L CNN
 F 1 "D" V 7005 5328 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 7050 5250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7050 5250 50  0001 C CNN
 F 3 "~" H 7050 5250 50  0001 C CNN
 	1    7050 5250
 	0    -1   -1   0   
@@ -1128,7 +1128,7 @@ U 1 1 5BF13B64
 P 7900 5250
 F 0 "D41" V 7946 5328 50  0000 L CNN
 F 1 "D" V 7855 5328 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 7900 5250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 7900 5250 50  0001 C CNN
 F 3 "~" H 7900 5250 50  0001 C CNN
 	1    7900 5250
 	0    -1   -1   0   
@@ -1141,7 +1141,7 @@ U 1 1 5BF13B6C
 P 8750 5250
 F 0 "D42" V 8796 5328 50  0000 L CNN
 F 1 "D" V 8705 5328 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 8750 5250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 8750 5250 50  0001 C CNN
 F 3 "~" H 8750 5250 50  0001 C CNN
 	1    8750 5250
 	0    -1   -1   0   
@@ -1154,7 +1154,7 @@ U 1 1 5BF13B74
 P 9600 5250
 F 0 "D43" V 9646 5328 50  0000 L CNN
 F 1 "D" V 9555 5328 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 9600 5250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 9600 5250 50  0001 C CNN
 F 3 "~" H 9600 5250 50  0001 C CNN
 	1    9600 5250
 	0    -1   -1   0   
@@ -1185,7 +1185,7 @@ U 1 1 5BF13B85
 P 4500 5250
 F 0 "D37" V 4546 5328 50  0000 L CNN
 F 1 "D" V 4455 5328 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 4500 5250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 4500 5250 50  0001 C CNN
 F 3 "~" H 4500 5250 50  0001 C CNN
 	1    4500 5250
 	0    -1   -1   0   
@@ -1517,7 +1517,7 @@ U 1 1 5C141B72
 P 10450 4050
 F 0 "D28" V 10496 3971 50  0000 R CNN
 F 1 "D" V 10405 3971 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 10450 4050 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 10450 4050 50  0001 C CNN
 F 3 "~" H 10450 4050 50  0001 C CNN
 	1    10450 4050
 	0    -1   -1   0   
@@ -1532,7 +1532,7 @@ U 1 1 5C1521C9
 P 10450 4650
 F 0 "D36" V 10496 4728 50  0000 L CNN
 F 1 "D" V 10405 4728 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 10450 4650 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 10450 4650 50  0001 C CNN
 F 3 "~" H 10450 4650 50  0001 C CNN
 	1    10450 4650
 	0    -1   -1   0   
@@ -1547,7 +1547,7 @@ U 1 1 5C162AD4
 P 10450 5250
 F 0 "D44" V 10496 5328 50  0000 L CNN
 F 1 "D" V 10405 5328 50  0000 L CNN
-F 2 "Keebio-Parts:Diode_Long" H 10450 5250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 10450 5250 50  0001 C CNN
 F 3 "~" H 10450 5250 50  0001 C CNN
 	1    10450 5250
 	0    -1   -1   0   
@@ -1670,7 +1670,7 @@ U 1 1 5BEB2BD0
 P 5450 2250
 F 0 "D1" V 5496 2171 50  0000 R CNN
 F 1 "D" V 5405 2171 50  0000 R CNN
-F 2 "Keebio-Parts:Diode_Long" H 5450 2250 50  0001 C CNN
+F 2 "ErgoMax:Diode_Long_Reversible-No3dModel" H 5450 2250 50  0001 C CNN
 F 3 "~" H 5450 2250 50  0001 C CNN
 	1    5450 2250
 	0    -1   -1   0   
