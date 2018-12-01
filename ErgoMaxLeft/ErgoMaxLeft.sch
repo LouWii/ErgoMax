@@ -1835,4 +1835,15 @@ Wire Wire Line
 	6600 3800 7900 3800
 Wire Wire Line
 	6600 4400 7900 4400
+$Comp
+L ErgoMax:Logo Lg3
+U 1 1 5C036DC6
+P 9100 5650
+F 0 "Lg3" H 9228 5696 50  0000 L CNN
+F 1 "Logo" H 9228 5605 50  0000 L CNN
+F 2 "ErgoMax:LeftSideText" H 9100 5550 50  0001 C CNN
+F 3 "" H 9100 5550 50  0001 C CNN
+	1    9100 5650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

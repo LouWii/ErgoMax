@@ -1837,4 +1837,15 @@ F 3 "" H 2500 5900 50  0001 C CNN
 	1    2500 6000
 	1    0    0    -1  
 $EndComp
+$Comp
+L ErgoMax:Logo Lg3
+U 1 1 5C032B7F
+P 1650 6300
+F 0 "Lg3" H 1778 6346 50  0000 L CNN
+F 1 "Logo" H 1778 6255 50  0000 L CNN
+F 2 "ErgoMax:RightSideText" H 1650 6200 50  0001 C CNN
+F 3 "" H 1650 6200 50  0001 C CNN
+	1    1650 6300
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
