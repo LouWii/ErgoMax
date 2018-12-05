@@ -1,34 +1,45 @@
 # ErgoMax
 
-Based on the ErgoDox, the ErgoMax is a split ergo keyboard with an F row (*F1* to *F12*). This row is missing from most of split ergo keyboards out there.
+The ErgoMax is a split ergonomic keyboard.
 
-The keyboard PCB has also been designed to use **Kaihl MX hotswap sockets**. That means you will need to solder Kaihl MX sockets, and **not switches**. Switches will plug into the sockets, meaning no solder required for them, and most importantly, meaning that you can remove them and change them easily (hence the hotswap name...).
+It is based on the ErgoDox, a popular split ergonomic keyboard ([learn more](https://www.ergodox.io/)). 
 
-The ErgoMax keyboard is split in 2 different parts, left and right. In the first iteration, those 2 parts use 2 different PCBs, that really look the same but aren't. 
+It's main features/differences are:
 
-There's a second version en route, with a reversible PCB. Like many other split keyboards, where you can solder components on one side or the other, to make it left or right.
+* extra top row for F1-F12 keys
+* hot-swappable switches
+* uses 2 ProMicro controllers (one for each side), allowing for fully independent boards if needed
+* 2 PCB versions available (separate left/right PCBs, or reversible PCB for both)
 
 **This project is not complete and some work still needs to be done.**
 
+## Layout
+
+While a lot of mechanical keyboard users seem to prefer simplistic, minimal keyboards, the ErgoMax goes the opposite way.
+
+The layout is the same as the ErgoDox, **with an extra top row** for *F1* to *F12* keys, adding more room for activites.
+
+## Hotswap - change switches whenever you want
+
+The keyboard PCB has been designed to use **Kaihl MX hotswap sockets**. You won't be able to solder the switches directly on the PCBs, you **must** use Kaihl MX sockets.
+
+Switches will plug into the sockets, meaning no solder required for them, and most importantly, meaning that you can remove them and change them easily (hence the *hotswap*...).
+
 ## Controller
 
-Right now, the PCB is accepting a Pro Micro, which is a cheap Arduino compatible board. It'll be easy to change that board to a Teensy if needed.
+Each side of the keyboard is controlled via a ProMicro, which is a cheap, small Arduino compatible board running on an ATmega32u4.
+
+The 2 sides can be connected via a 3.5mm jack, just like the original ErgoDox. However, as the 2 sides posess their own ProMicro, that means they can also be working totally independently if needed.
+
+One downside here is that almost all pins of the ProMicro are used (only 2 remaining), making it impossible to add extra add-ons to the keyboard. Sadly, no RGB... as of right now.
+
+### Jack connector
+
+I tried to use the same 3.5mm TRRS jack socket as the original ErgoDox, which is a *CP-43514*. But it's not super common, so it's changed to a *PJ320A*. They don't have the same footprint and the same number of pins, but it'll work fine as we need only 4 pins in total (VCC, GND, SDA, SCL).
 
 ### Firmware
 
-This is another big part of the project. And it hasn't started yet.
-
-## Connected or independent 
-
-### Connection between the 2 parts
-
-The 2 parts of the keyboards are connected via a 3.5mm jack male to male cable, like almost all split keyboards.
-
-I tried to use the same 3.5 TRRS jack socket as the original ErgoDox, which is a *CP-43514*. But it's not super common, so it's changed to a *PJ320A*. They don't have the same footprint and the same number of pins, but it'll work fine as we need only 4 pins in total (VCC, GND, SDA, SCL).
-
-### Independent
-
-The 2 parts of the keyboard can also be totally independent from each other. As both have their own ProMicro, it's won't require any hardware change, only firmware.
+This is another big part of the project. And it hasn't started yet. And it's scary.
 
 ## Third party Libraries
 
