@@ -65,7 +65,13 @@ I also modified a 2U stabilizer model that I found there [https://grabcad.com/li
 
 I once again modified a ProMicro 3D model [https://grabcad.com/library/arduino-pro-micro-1](https://grabcad.com/library/arduino-pro-micro-1). The file is called `Pro-micro-clean-ergomax.step` and is stored in `libs/3dmodels`.
 
+## Assembly
+
+[Assembly document](ASSEMBLY.md)
+
 ## Print the PCBs
+
+Here are some manufacturers that can print PCBs for you. They are not in any particular order and I don't have any partnership of any sort either.
 
 * [https://pcbshopper.com/ - price comparison](https://pcbshopper.com/) 
 * [https://jlcpcb.com/](https://jlcpcb.com/)
