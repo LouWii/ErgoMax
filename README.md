@@ -39,7 +39,7 @@ I tried to use the same 3.5mm TRRS jack socket as the original ErgoDox, which is
 
 ### Firmware
 
-This is another big part of the project. And it hasn't started yet. And it's scary.
+[Firmware Document](FIRMWARE.md)
 
 ## Third party Libraries
 
