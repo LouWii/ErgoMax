@@ -35,7 +35,7 @@ One downside here is that almost all pins of the ProMicro are used (only 2 remai
 
 ### Jack connector
 
-I tried to use the same 3.5mm TRRS jack socket as the original ErgoDox, which is a *CP-43514*. But it's not super common, so it's changed to a *PJ320A*. They don't have the same footprint and the same number of pins, but it'll work fine as we need only 4 pins in total (VCC, GND, SDA, SCL).
+I tried to use the same 3.5mm TRRS jack socket as the original ErgoDox, which is a *CP-43514*. But it's not super common, so I changed it for a *PJ320A* (same as *MJ-4PP-9*).
 
 ### Firmware
 
