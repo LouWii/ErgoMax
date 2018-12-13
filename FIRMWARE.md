@@ -27,6 +27,8 @@ Here's a list of different split boards using QMK:
 * Let's Split - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split)
 * MiniDox - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/minidox)
 * Orthodox - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/orthodox)
+* Redox - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/redox) - 
+[Repo](https://github.com/mattdibi/redox-keyboard)
 
 ## Split independent
 
