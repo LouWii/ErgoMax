@@ -21,14 +21,13 @@ Here's a list of different split boards using QMK:
 
 * Ergodox (of course) - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ergodox_ez)
 * Ergodone - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ergodone)
-* ErgoTravel - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ergotravel)
-* ErgoInu - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ergoinu)
-* Helix - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/helix)
-* Let's Split - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split)
+* ErgoTravel - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ergotravel) - [repo](https://github.com/jpconstantineau/ErgoTravel)
+* ErgoInu - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ergoinu) - [repo](https://github.com/hsgw/ergoinu)
+* Helix - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/helix) - [repo](https://github.com/MakotoKurauchi/helix)
+* Let's Split - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/lets_split) - [repo](https://github.com/Duckle29/let-s-Split-v2)
 * MiniDox - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/minidox)
 * Orthodox - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/orthodox)
-* Redox - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/redox) - 
-[Repo](https://github.com/mattdibi/redox-keyboard)
+* Redox - [firmware](https://github.com/qmk/qmk_firmware/tree/master/keyboards/redox) - [repo](https://github.com/mattdibi/redox-keyboard)
 
 ## Split independent
 
