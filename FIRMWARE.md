@@ -32,3 +32,9 @@ Here's a list of different split boards using QMK:
 ## Split independent
 
 This one is a bit more easy to configure, as there's no specific configuration for it (apart from the usual keyboard matrix). The downside is that each part needs to be flashed separately.
+
+### Keyboard Firmware Builder
+
+[kbfirmware.com](https://kbfirmware.com/) is a nice tool that makes it easy to create a firmware based on QMK. You just have to setup your layout, enter the settings, enter the layout and layers, enter macros and even custom code, and then the tool compiles a firmware for you, or you can even download the source files if you want to.
+
+I've created a file for the left side and right side so you don't have to setup everything in the tool. Just upload `ErgoMaxLeft/kfb-layout.json` or  `ErgoMaxRight/kfb-layout.json` and add your own customizations.
