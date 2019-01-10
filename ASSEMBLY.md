@@ -9,7 +9,7 @@ This is for one side. If you're making 2 sides, well, just double that up.
 * 1x ProMicro board (and 2 2.52mm pin headers)
 * 2x 2.2kohm resistors
 * 1x PJ-320A or MJ-4PP-9 3.5mm jack connector
-* 44x Kaihl MX sockets
+* 44x Kailh MX sockets
 * 44x 1N4148 diodes (**through hole**)
 * 44x MX Cherry (or MX compatible) keyboard switches
 * 2x 2U stabilizers

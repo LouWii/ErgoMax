@@ -21,7 +21,7 @@ The layout is the same as the ErgoDox, **with an extra top row** for *F1* to *F1
 
 ## Hotswap - change switches whenever you want
 
-The keyboard PCB has been designed to use **Kaihl MX hotswap sockets**. You won't be able to solder the switches directly on the PCBs, you **must** use Kaihl MX sockets.
+The keyboard PCB has been designed to use **Kailh MX hotswap sockets**. You won't be able to solder the switches directly on the PCBs, you **must** use Kaihl MX sockets.
 
 Switches will plug into the sockets, meaning no solder required for them, and most importantly, meaning that you can remove them and change them easily (hence the *hotswap*...).
 
