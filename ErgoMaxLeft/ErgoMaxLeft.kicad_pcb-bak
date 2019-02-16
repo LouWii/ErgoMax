@@ -242,7 +242,7 @@
     (fp_text value Logo (at 0 -0.5) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text user "Left Side" (at 0 0) (layer F.SilkS)
+    (fp_text user "Left Side" (at 2.56794 -0.51054) (layer F.SilkS)
       (effects (font (size 4 4) (thickness 0.6)))
     )
   )
