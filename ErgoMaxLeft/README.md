@@ -4,11 +4,10 @@ This is the left side, for the left hand.
 
 ## PCB
 
-Render from Kicad.
+Render from Kicad (light source in Kicad isn't changeable...)
+
+![ergomax-left-pcb-4-front](https://user-images.githubusercontent.com/2750789/52893955-f0e50480-3156-11e9-8995-2461be4c16e6.PNG)
 
 
-![ergomax-left-pcb-front](https://user-images.githubusercontent.com/2750789/49322894-c9bc5680-f4c8-11e8-8044-eddc92af2d22.png)
 
-
-
-![ergomax-left-pcb-back](https://user-images.githubusercontent.com/2750789/49322892-c923c000-f4c8-11e8-9819-b5710a371050.png)
+![ergomax-left-pcb-4-back](https://user-images.githubusercontent.com/2750789/52893954-f0e50480-3156-11e9-8086-11fdf469e5b2.PNG)
