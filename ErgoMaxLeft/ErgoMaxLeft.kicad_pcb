@@ -5194,6 +5194,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 -90))
     )
+    (model ${KISYS3DMOD}/ap214-CUI_SJ2-3574A-SMT-TR.step
+      (offset (xyz -3 -13 5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (module Keebio-Parts:Resistor (layer B.Cu) (tedit 5BEFBB92) (tstamp 5C1846BF)
@@ -6028,7 +6033,7 @@
   (segment (start 134.1374 70.5358) (end 150.5204 70.5358) (width 0.6) (layer B.Cu) (net 61))
   (segment (start 231.73306 42.34674) (end 236.33306 42.34674) (width 0.6) (layer F.Cu) (net 61))
 
-  (zone (net 64) (net_name GND) (layer F.Cu) (tstamp 5BF035BC) (hatch edge 0.508)
+  (zone (net 64) (net_name GND) (layer F.Cu) (tstamp 5C67837E) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -7492,7 +7497,7 @@
       )
     )
   )
-  (zone (net 64) (net_name GND) (layer B.Cu) (tstamp 5BF035B9) (hatch edge 0.508)
+  (zone (net 64) (net_name GND) (layer B.Cu) (tstamp 5C67837B) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
