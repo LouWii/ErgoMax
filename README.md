@@ -10,6 +10,8 @@ It's main features/differences are:
 * hot-swappable switches
 * uses 2 ProMicro controllers (one for each side), allowing for fully independent boards if needed
 * 2 PCB versions available (separate left/right PCBs, or reversible PCB for both)
+* 2 input pins left (perfect for a rotary encoder!)
+* **DIY friendly**: it's really super easy to assemble yourself. The hardest part is probably the ProMicro. But it's still very accessible for beginners.
 
 **This project is not complete and some work still needs to be done.**
 
@@ -31,7 +33,7 @@ Each side of the keyboard is controlled via a ProMicro, which is a cheap, small 
 
 The 2 sides can be connected via a 3.5mm jack, just like the original ErgoDox. However, as the 2 sides posess their own ProMicro, that means they can also be working totally independently if needed.
 
-One downside here is that almost all pins of the ProMicro are used (only 2 remaining), making it impossible to add extra add-ons to the keyboard. Sadly, no RGB... as of right now.
+One downside here is that almost all pins of the ProMicro are used (only 2 remaining), making it impossible to add extra add-ons to the keyboard. Sadly, no RGB, and given we only have 2 free pins on each ProMicro, I doubt we'll be able to add RGB. Suggestions are welcome though.
 
 ### Jack connector
 
@@ -39,9 +41,9 @@ I tried to use the same 3.5mm TRRS jack socket as the original ErgoDox, which is
 
 ### Firmware
 
-[Firmware Document](FIRMWARE.md)
+Check the [guides](Guide/README.md)
 
-## Third party Libraries
+## Third Party Libraries
 
 We are using several libraries in this project.
 
@@ -65,10 +67,6 @@ I also modified a 2U stabilizer model that I found there [https://grabcad.com/li
 
 I once again modified a ProMicro 3D model [https://grabcad.com/library/arduino-pro-micro-1](https://grabcad.com/library/arduino-pro-micro-1). The file is called `Pro-micro-clean-ergomax.step` and is stored in `libs/3dmodels`.
 
-## Assembly
-
-[Assembly document](ASSEMBLY.md)
-
 ## Print the PCBs
 
 Here are some manufacturers that can print PCBs for you. They are not in any particular order and I don't have any partnership of any sort either.
@@ -83,3 +81,6 @@ Here are some manufacturers that can print PCBs for you. They are not in any par
 * [https://www.pcbgogo.com/](https://www.pcbgogo.com/)
 * [https://dirtypcbs.com/](https://dirtypcbs.com/)
 
+## Assembly
+
+Check the [guides](Guide/README.md)
