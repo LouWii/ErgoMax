@@ -2,9 +2,9 @@
 
 Ergomax's firmware is based on [QMK](https://qmk.fm/), the (most?) popular firmware for custom keyboards.
 
-The firmware is hosted on a separate repository (fork of QMK): [LouWii/qmk_firmware](https://github.com/LouWii/qmk_firmware)
+The firmware is hosted on a separate repository (fork of QMK) in the *ergomax-keyboard* branch: [LouWii/qmk_firmware](https://github.com/LouWii/qmk_firmware)
 
-To read more, go to the Ergomax folder in the QMK repository [qmk/keyboards/ergomax](https://github.com/LouWii/qmk_firmware/tree/master/keyboards/ergomax)
+To read more, go to the Ergomax folder [qmk/keyboards/ergomax](https://github.com/LouWii/qmk_firmware/tree/ergomax-keyboard/keyboards/ergomax)
 
 ### Keyboard Firmware Builder
 
