@@ -21,6 +21,10 @@ While a lot of mechanical keyboard users seem to prefer simplistic, minimal keyb
 
 The layout is the same as the ErgoDox, **with an extra top row** for *F1* to *F12* keys, adding more room for activites.
 
+Here's an example:
+
+![ergomax-default -layout](https://user-images.githubusercontent.com/2750789/68823557-fd947b80-0648-11ea-90b9-089e7ddc1ec6.PNG)
+
 ## Hotswap - change switches whenever you want
 
 The keyboard PCB has been designed to use **Kailh MX hotswap sockets**. You won't be able to solder the switches directly on the PCBs, you **must** use Kaihl MX sockets.
