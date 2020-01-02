@@ -1,3 +1,5 @@
+![Ergomax Keyboard](Guide/img/ergomax-assembled.jpg)
+
 # ErgoMax
 
 The ErgoMax is a split ergonomic keyboard.
