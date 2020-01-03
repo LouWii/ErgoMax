@@ -10,18 +10,20 @@ It's main features/differences are:
 
 * extra top row for F1-F12 keys
 * hot-swappable switches
-* uses 2 ProMicro controllers (one for each side), allowing for fully independent boards if needed
-* 2 PCB versions available (separate left/right PCBs, or reversible PCB for both)
+* uses 2 ProMicro controllers (one for each side)
+* QMK firmware
+* 2 PCBs (separate left/right PCBs)
+* either side can be master/slave
+* both sides can be master (both sides need to be connected via USB in that case), allow for a 1 side only setup
 * 2 input pins left (perfect for a rotary encoder!)
 * **DIY friendly**: it's really super easy to assemble yourself. The hardest part is probably the ProMicro. But it's still very accessible for beginners.
-
-**This project is not complete and some work still needs to be done.**
+* Multi layer acrylic case
 
 ## Layout
 
 While a lot of mechanical keyboard users seem to prefer simplistic, minimal keyboards, the ErgoMax goes the opposite way.
 
-The layout is the same as the ErgoDox, **with an extra top row** for *F1* to *F12* keys, adding more room for activites.
+The layout is the same as the ErgoDox, **with an extra top row** for *F1* to *F12* keys, adding more room for activities.
 
 Here's an example:
 
@@ -37,9 +39,9 @@ Switches will plug into the sockets, meaning no solder required for them, and mo
 
 Each side of the keyboard is controlled via a ProMicro, which is a cheap, small Arduino compatible board running on an ATmega32u4.
 
-The 2 sides can be connected via a 3.5mm jack, just like the original ErgoDox. However, as the 2 sides posess their own ProMicro, that means they can also be working totally independently if needed.
+The 2 sides can be connected via a 3.5mm jack, just like the original ErgoDox. However, as the 2 sides possess their own ProMicro, that means they can also be working totally independently if needed.
 
-One downside here is that almost all pins of the ProMicro are used (only 2 remaining), making it impossible to add extra add-ons to the keyboard. Sadly, no RGB, and given we only have 2 free pins on each ProMicro, I doubt we'll be able to add RGB. Suggestions are welcome though.
+There are 2 pins free on each of the ProMicros, which can be used for whatever you want. I believe it would be possible to drive a RGB strip from it, since it requires only 1 drive pin (you would need to get GND and +5V from somewhere on the PCB). I was able to use both pins to add a rotary encoder.
 
 ### Jack connector
 
