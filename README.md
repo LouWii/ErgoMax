@@ -6,18 +6,20 @@ The ErgoMax is a split ergonomic keyboard.
 
 It is based on the ErgoDox, a popular split ergonomic keyboard ([learn more](https://www.ergodox.io/)). 
 
-It's main features/differences are:
+Its main features/differences are:
 
 * extra top row for F1-F12 keys
 * hot-swappable switches
 * uses 2 ProMicro controllers (one for each side)
 * QMK firmware
-* 2 PCBs (separate left/right PCBs)
+* 2 versions of the PCBs:
+    * a reversible left+right combined
+    * 2 separate PCBs, one for each side
 * either side can be master/slave
 * both sides can be master (both sides need to be connected via USB in that case), allow for a 1 side only setup
 * 2 input pins left (perfect for a rotary encoder!)
 * **DIY friendly**: it's really super easy to assemble yourself. The hardest part is probably the ProMicro. But it's still very accessible for beginners.
-* Multi layer acrylic case
+* multi layer acrylic case
 
 ## Layout
 
@@ -92,3 +94,7 @@ Here are some manufacturers that can print PCBs for you. They are not in any par
 ## Assembly
 
 Check the [guides](Guide/README.md)
+
+## Case
+
+[See Case readme](./Case/README.md)
