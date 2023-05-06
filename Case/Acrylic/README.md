@@ -6,12 +6,12 @@ The design is dependant on using different thicknesses for the layers. The thick
 
 ### MakerLabs
 
-[More](./MakersLabs/README.md)
+[More](./MakersLabs/)
 
 ### Ponoko
 
-[More](./Ponoko/README.md)
+[More](./Ponoko/)
 
 ### Work files
 
-[More](./WIP/README.md)
+[More](./WIP/)

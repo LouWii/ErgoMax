@@ -97,4 +97,4 @@ Check the [guides](Guide/README.md)
 
 ## Case
 
-[See Case readme](./Case/README.md)
+[See Case readme](./Case/)
