@@ -15,3 +15,7 @@ The design is dependant on using different thicknesses for the layers. The thick
 ### Work files
 
 [More](./WIP/)
+
+### Arduino Type C compatible
+
+[More](./Type-C/)
